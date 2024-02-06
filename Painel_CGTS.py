@@ -5,8 +5,9 @@ import plotly.express as px
 from bs4 import BeautifulSoup
 from selenium import webdriver
 import difflib
-import chromedriver_binary
+from chromedriver_autoinstaller import install as install_chromedriver
 
+install_chromedriver()
 
 st.set_page_config(layout = 'wide')
 #inserindo o titulo
