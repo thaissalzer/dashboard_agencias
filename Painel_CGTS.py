@@ -7,6 +7,7 @@ from selenium import webdriver
 import difflib
 from chromedriver_autoinstaller import install as install_chromedriver
 
+install_chromedriver()
 
 
 st.set_page_config(layout = 'wide')
