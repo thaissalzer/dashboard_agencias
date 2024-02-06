@@ -1,0 +1,3298 @@
+<!DOCTYPE html>
+
+<html lang="pt-br" xml:lang="pt-br" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8"/>
+<!-- Google Tag Manager -->
+<script type="text">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NHZSKTD');</script>
+<!-- End Google Tag Manager -->
+<script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "url": "https://www.gov.br/antaq",
+            "logo": "https://www.gov.br/antaq/logo.png"
+        }</script>
+<script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "url": "https://www.gov.br/antaq",
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": "https://www.gov.br/antaq/search?SearchableText={search_term_string}",
+              "query-input": "required name=search_term_string"
+            }
+        }</script>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<base href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social/audiencias-e-consultas-publicas/proximas-audiencias-publicas-1"/><!--[if lt IE 7]></base><![endif]-->
+<meta content="Próximas Audiências Públicas" property="og:title"/>
+<meta content="" property="og:description"/>
+<meta content="article" property="og:type"/>
+<meta content="https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social/audiencias-e-consultas-publicas/proximas-audiencias-publicas-1/proximas-audiencias-publicas" property="og:url"/>
+<meta content="https://www.gov.br/antaq/logo.png" property="og:image"/>
+<meta content="pt_BR" property="og:locale"/>
+<meta content="Agência Nacional de Transportes Aquaviários (ANTAQ)" property="og:site_name"/>
+<script type="text">
+    (function() {
+        var po = document.createElement('script');
+        po.async = true;
+        po.src = document.location.protocol + '//connect.facebook.net/pt_BR/all.js#xfbml=1';
+        var head = document.getElementsByTagName('head')[0];
+        head.appendChild(po);
+    }());
+    </script>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="@" name="twitter:site"/>
+<meta content="http://www.gov.br/infraestrutura" property="creator.productor"/>
+<link href="https://www.gov.br/antaq/portal_css/Sunburst%20Theme/reset-cachekey-cc0c5014c7bbb6b3e88e66f72e643d1f.css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="https://www.gov.br/antaq/portal_css/Sunburst%20Theme/base-cachekey-845751893a225b878856dce5a3b564eb.css" rel="stylesheet" type="text/css"/>
+<style media="screen" type="text/css">@import url(https://www.gov.br/antaq/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-5dced27461e1187cd646e92bb29438ce.css);</style>
+<link href="https://www.gov.br/antaq/portal_css/Sunburst%20Theme/resourceplone.formwidget.datetimestyles-cachekey-30af1c60773b2d65e90d0d0acee8f79d.css" rel="stylesheet" type="text/css"/>
+<style media="screen" type="text/css">@import url(https://www.gov.br/antaq/portal_css/Sunburst%20Theme/jquery.autocomplete-cachekey-2da341d649817723481429d82a6732b5.css);</style>
+<link href="https://www.gov.br/antaq/portal_css/Sunburst%20Theme/embedder-cachekey-6f50e7775bc4d1cb02eadb47e0849398.css" media="screen" rel="stylesheet" type="text/css"/>
+<style media="screen" type="text/css">@import url(https://www.gov.br/antaq/portal_css/Sunburst%20Theme/resourcecollective.pollscsscollective.polls-cachekey-1ad7c8cd562d06921191902179ded470.css);</style>
+<link href="https://www.gov.br/antaq/portal_css/Sunburst%20Theme/ploneCustom-cachekey-a24c6a89b14c33a0a4be4464b9a674cb.css" rel="stylesheet" type="text/css"/>
+<!--[if lt IE 8]>    
+    
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/antaq/portal_css/Sunburst%20Theme/IEFixes-cachekey-d05fc6784f8d20ca0ce6b9a110c39d64.css" media="screen" />
+        <![endif]-->
+<style media="all" type="text/css">@import url(https://www.gov.br/antaq/portal_css/Sunburst%20Theme/resourcepas.plugins.loginunicologinunico-cachekey-a79748317bfe20cf999961c41d151fd3.css);</style>
+<link href="//cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/css/swiper.min.css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="https://www.gov.br/antaq/portal_css/Sunburst%20Theme/resourcelgpd.plugindsgov.min-cachekey-2a5afcf34cbf525cd50f3d130bae7216.css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="https://www.gov.br/antaq/portal_css/Sunburst%20Theme/resourcegovbr.policycanais-cachekey-cf780b4e08193a6d28f8f243fb91c577.css" media="screen" rel="stylesheet" type="text/css"/>
+<script src="https://www.gov.br/antaq/portal_javascripts/Sunburst%20Theme/++resource++govbr.recomendacao/govbr.recom.9e3eea160cd9e43452ac.js" type="text/javascript"></script>
+<script src="https://www.gov.br/antaq/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-63c6b22b96db2536990ec62d19277cc3.js" type="text/javascript"></script>
+<script src="https://www.gov.br/antaq/portal_javascripts/Sunburst%20Theme/resourcegovbr.policyfolder_contents-cachekey-ef024638e4ce81d52fbd05cdc4f79212.js" type="text/javascript"></script>
+<script src="https://www.gov.br/antaq/portal_javascripts/Sunburst%20Theme/resourcegovbr.policycookiebar_1_3_55-cachekey-91d1d4e1ccc88bd15f6a00af30dc170d.js" type="text/javascript"></script>
+<script src="https://www.gov.br/antaq/portal_javascripts/Sunburst%20Theme/resourcegovbr.policyapplication_cookiebar_1_3_55-cachekey-341fd9f2f5f688b4dfacf7c45a412a7c.js" type="text/javascript"></script>
+<script src="https://www.gov.br/antaq/portal_javascripts/Sunburst%20Theme/collective.js.jqueryui.custom.min-cachekey-234688b99242f6ab9a516d946cc9f5dd.js" type="text/javascript"></script>
+<script src="https://www.gov.br/antaq/portal_javascripts/Sunburst%20Theme/resourceplone.formwidget.recurrencejquery.tmpl-beta1-cachekey-631a80e134c610469f6d5547e9e201fc.js" type="text/javascript"></script>
+<script src="https://www.gov.br/antaq/portal_javascripts/Sunburst%20Theme/resourcecollective.js.bootstrapjsbootstrap.min-cachekey-9262597c1484d4eb504c29888794ab52.js" type="text/javascript"></script>
+<script src="https://www.gov.br/antaq/portal_javascripts/Sunburst%20Theme/resourcecollective.coverjsmain-cachekey-a21d032cd5a25b983c22522ccb6202eb.js" type="text/javascript"></script>
+<script src="https://www.gov.br/antaq/portal_javascripts/Sunburst%20Theme/resourcebrasil.gov.tilesvendorjquery.jplayer.min-cachekey-5402a2d937c9165b918d0ae167b66c69.js" type="text/javascript"></script>
+<script src="https://www.gov.br/antaq/portal_javascripts/Sunburst%20Theme/resourcedropdown-menu-cachekey-d44982ef5d97c1927dc33d76f8e7c3e3.js" type="text/javascript"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/js/swiper.min.js" type="text/javascript"></script>
+<script type="text/javascript"></script>
+<script type="text/javascript"></script>
+<script src="https://www.gov.br/antaq/portal_javascripts/Sunburst%20Theme/resourcelgpd.pluginchangeCookieImage-cachekey-50d4f7ae49b7ecc00ee4c62c432d7d2a.js" type="text/javascript"></script>
+<script src="https://www.gov.br/antaq/portal_javascripts/Sunburst%20Theme/resourcelgpd.pluginblock_cookies-cachekey-6c882b7d393129f26f4a1efea7cc327d.js" type="text/javascript"></script>
+<script src="https://www.gov.br/antaq/portal_javascripts/Sunburst%20Theme/resourcegovbr.policyclipboard.min-cachekey-b0a3e30dab3a0bb4cb3cd295273c3b86.js" type="text/javascript"></script>
+<script src="https://www.gov.br/antaq/portal_javascripts/Sunburst%20Theme/themegovbr.institucionaljslistar_autoridades_eagenda-cachekey-e2ac12f14e936929883e32ac7529dbd9.js" type="text/javascript"></script>
+<link href="https://www.gov.br/antaq/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.css" rel="stylesheet"/>
+<script defer="defer" src="https://www.gov.br/antaq/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.js"></script>
+<link href="https://www.gov.br/antaq/++resource++brasil.gov.portal/brasilgovportal-ee510e4.css" rel="stylesheet"/>
+<script defer="defer" src="https://www.gov.br/antaq/++resource++brasil.gov.portal/brasilgovportal-ee510e4.js"></script>
+<title>Próximas Audiências Públicas — Agência Nacional de Transportes Aquaviários (ANTAQ)</title>
+<link href="http://vocab.e.gov.br/2011/03/vcge#esquema" rel="http://purl.org/dc/terms/subject http://schema.org/about http://xmlns.com/foaf/0.1/primaryTopic"/>
+<link href="https://www.gov.br/antaq/pt-br" rel="author" title="Informações do Autor"/>
+<link href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social/audiencias-e-consultas-publicas/proximas-audiencias-publicas-1" rel="canonical"/>
+<script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional['pt-BR'],
+                {dateFormat: 'dd/mm/yy'}));
+            }
+        });
+        </script>
+<link href="https://www.gov.br/antaq/@@search" rel="search" title="Buscar neste site"/>
+<meta content="Plone - http://plone.org" name="generator"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="/antaq/++theme++padrao_govbr/favicons/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/antaq/++theme++padrao_govbr/favicons/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/antaq/++theme++padrao_govbr/favicons/favicon-48x48.png" rel="shortcut icon" type="image/png"/>
+<link color="#00a300" href="/antaq/++theme++padrao_govbr/favicons/safari-pinned-tab.svg" rel="mask-icon"/>
+<meta content="favicons/browserconfig.xml" name="msapplication-config"/>
+<meta content="#00a300" name="theme-color"/>
+<link crossorigin="anonymous" href="https://use.fontawesome.com/releases/v6.4.2/css/all.css" rel="stylesheet"/>
+<style>
+        body.userrole-authenticated .btn.btn-success.fileinput-button span:after {
+            content: "Adicionar Arquivos" !important;
+        }
+    </style>
+<script id="sso-status-bar-js" src="/cdn/sso-status-bar/src/js/sso-status-bar.js" type="module"></script>
+<link href="/antaq/++theme++padrao_govbr/govbrtheme-63d584d.css" rel="stylesheet"/></head>
+<body class="default-header-template portal-institucional template-document_view portaltype-document site-pt-br section-acesso-a-informacao subsection-participacao-social subsection-participacao-social-audiencias-e-consultas-publicas subsection-participacao-social-audiencias-e-consultas-publicas-proximas-audiencias-publicas-1 userrole-anonymous" data-base-url="https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social/audiencias-e-consultas-publicas/proximas-audiencias-publicas-1/proximas-audiencias-publicas" data-portal-url="https://www.gov.br/antaq" dir="ltr" id="">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe data-src="https://www.googletagmanager.com/ns.html?id=GTM-NHZSKTD" height="0" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<nav aria-label="Acesso rápido" class="govbr-skip-menu">
+<a accesskey="1" href="#wrapper">
+<span class="sr-only">Ir para o</span>
+      Conteúdo
+      <span class="access-key">1</span>
+</a>
+<a accesskey="2" href="/">
+<span class="sr-only">Ir para a</span>
+      Página Inicial
+      <span class="access-key">2</span>
+</a>
+<a accesskey="3" href="#main-navigation">
+<span class="sr-only">Ir para o menu de</span>
+      Navegação
+      <span class="access-key">3</span>
+</a>
+<a accesskey="4" href="#govbr-busca-input">
+<span class="sr-only">Ir para a</span>
+      Busca
+      <span class="access-key">4</span>
+</a>
+<a accesskey="5" href="#portal-footer">
+<span class="sr-only">Ir para o</span>
+      Mapa do site
+      <span class="access-key">5</span>
+</a>
+</nav>
+<noscript aria-label="Aviso de Javascript desabilitado">
+<dl class="portalMessage attention erro-javascript">
+<dt>Atenção!</dt>
+<dd>Seu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.</dd>
+</dl>
+</noscript>
+<!-- modal session message --><!-- User --><!-- Header --><!--
+    Para habilitar o novo menu &#233; necess&#225;rio descoment&#225;-lo em:
+    govbr/institucional/viewlets/institucional_menu_govbr.pt
+    --><!-- <header id="site-header" class="has-navigation-swipe"> --><header class="has-navigation-dropdown" id="site-header">
+<div class="header-wrapper secondary">
+<div class="portal-name">
+<a class="portal-logo" href="https://www.gov.br/pt-br">
+<span class="sr-only">Portal Gov.br</span>
+</a>
+<a class="nome-orgao" href="http://www.gov.br/infraestrutura">Ministério da Infraestrutura</a>
+</div>
+<div class="site-header-links">
+<div class="links-rapidos">
+<a class="toggle-links-rapidos" href="#">
+<span class="fas fa-ellipsis-v"></span>
+<span class="sr-only">Acesso rápido</span>
+</a>
+<ul>
+<li class="titulo">Acesso rápido</li>
+<li>
+<a href="https://www.gov.br/pt-br/orgaos-do-governo">Órgãos do Governo</a>
+</li>
+<li>
+<a href="https://www.gov.br/acessoainformacao/pt-br">Acesso à Informação</a>
+</li>
+<li>
+<a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+</li>
+<li>
+<a href="https://www.gov.br/governodigital/pt-br/acessibilidade-digital">Acessibilidade</a>
+</li>
+<!--<li>
+                <a href="http://www.vlibras.gov.br/" class="link-vlibras">
+                  <span class="fas fa-assistive-listening-systems"></span>
+                </a>
+              </li>-->
+</ul>
+</div>
+<ul class="header-icons">
+<li>
+<a class="reset-cookies" href="#" onclick="_redefinirCookies(); return false;">Redefinir Cookies</a>
+</li>
+<li>
+<a class="link-contraste" href="#">
+<span aria-hidden="true" class="fas fa-adjust"></span>
+<span class="sr-only">Mudar para o modo de alto contraste</span>
+</a>
+</li>
+</ul>
+<sso-status-bar authorization-src="/cdn/oauth2-authorization-client-resources/src/html/oauth2-authorization-url.html" cookie-monitor-cookie-name="Sso-Authenticated" cookie-monitor-src="https://sso.acesso.gov.br/session-management/html/cookie-monitor-server.html" id="barra-sso" sign-in-href="/cdn/govbrportal/src/html/oauth2-authorization-url.html" sign-out-href="/cdn/govbrportal/src/html/logout-endpoint.html">
+<sso-status-bar-section title="Minha conta">
+<sso-status-bar-item class="acessogov-menu-cpf" href="https://contas.acesso.gov.br/alteracao_cadastro" style="display: none" title="Dados Pessoais">
+</sso-status-bar-item>
+<sso-status-bar-item class="acessogov-menu-cpf" href="https://contas.acesso.gov.br/seguranca" style="display: none" title="Segurança da Conta">
+</sso-status-bar-item>
+<sso-status-bar-item class="acessogov-menu-cpf" href="https://contas.acesso.gov.br/privacidade" style="display: none" title="Privacidade">
+</sso-status-bar-item>
+<sso-status-bar-item class="acessogov-menu-cnpj" href="https://empresas.acesso.gov.br" style="display: none" title="Vincular empresas via e-CNPJ">
+</sso-status-bar-item>
+</sso-status-bar-section>
+<sso-status-bar-section title="Serviços">
+<sso-status-bar-item class="acessogov-menu-cpf" href="https://servicos.acesso.gov.br/carteira" style="display: none" title="Carteira de Documentos">
+</sso-status-bar-item>
+<sso-status-bar-item class="acessogov-menu-cpf" href="https://servicos.acesso.gov.br/certidoes" style="display: none" title="Baixar certidões">
+</sso-status-bar-item>
+<sso-status-bar-item class="acessogov-menu-cpf" href="https://assinador.iti.br/assinatura" style="display: none" title="Assinar documentos digitalmente">
+</sso-status-bar-item>
+<sso-status-bar-item class="acessogov-menu-cpf" href="https://servicos.acesso.gov.br/notificacoes" style="display: none" title="Notificações">
+</sso-status-bar-item>
+<sso-status-bar-item href="https://www.gov.br/governodigital/pt-br/conta-gov-br/ajuda-da-conta-gov.br" title="Ajuda da conta gov.br">
+</sso-status-bar-item>
+</sso-status-bar-section>
+</sso-status-bar>
+</div>
+</div>
+<div class="main">
+<div class="header-wrapper">
+<div class="site-name-wrapper">
+<a class="ico-navegacao toggle-main-navigation" href="#">
+<span class="sr-only">Abrir menu principal de navegação</span>
+<span aria-hidden="true" class="fa fa-bars"></span>
+<span aria-hidden="true" class="fa fa-times"></span>
+</a>
+<!-- <a href="/" class="site-name">Nome do site</a> -->
+<!-- Usar nome completo -->
+<div class="site-name">
+<a href="https://www.gov.br/antaq/pt-br">Agência Nacional de Transportes Aquaviários (ANTAQ)</a>
+</div>
+</div>
+<div class="govbr-busca-header">
+<div id="govbr-busca-input"></div>
+</div>
+</div>
+</div>
+<!-- Main Menu -->
+<nav aria-label="Menu Principal" class="navigation-wrapper navigation-dropdown">
+<div class="navigation-content">
+<div class="navigation-cell" id="main-navigation">
+<ul class="list-navigation"><li class="plain dropdown-submenu"><a class="plain" href="https://www.gov.br/antaq/pt-br/assuntos">Assuntos</a>
+<ul class="submenu">
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/assuntos/passageiros">
+            
+            Passageiros
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/passageiros/direitos">
+            
+            Direitos Básicos
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/passageiros/atrasos-e-cancelamentos">
+            
+            Atrasos e Cancelamentos
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/passageiros/bagagens">
+            
+            Bagagens
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/passageiros/beneficios-e-gratuidades">
+            
+            Benefícios e Gratuidades
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/passageiros/transito-de-criancas-e-adolescentes">
+            
+            Trânsito de Crianças e Adolescentes
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://web3.antaq.gov.br/ea/sense/index.html#pt">
+            
+            Linhas e Horários
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://web3.antaq.gov.br/Portal/Frota/ConsultarEmpresaInteriorAutorizada.aspx">
+            
+            Empresas Autorizadas
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/passageiros/videos-e-cartilhas">
+            
+            Vídeos e Cartilhas
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/passageiros/duvidas-e-reclamacoes">
+            
+            Dúvidas e Reclamações
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/assuntos/instalacoes-portuarias">
+            
+            Instalações Portuárias
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/instalacoes-portuarias/portos">
+            
+            Portos
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/instalacoes-portuarias/instalacoes-privadas">
+            
+            Instalações Privadas
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/instalacoes-portuarias/contabilidade">
+            
+            Contabilidade Regulatória
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/instalacoes-portuarias/legislacao">
+            
+            Legislação
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/assuntos/navegacao">
+            
+            Navegação
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/navegacao/interior">
+            
+            Interior
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/navegacao/maritima-de-de-apoio">
+            
+            Marítima e de Apoio
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/navegacao/afretamento">
+            
+            Afretamento
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/assuntos/fiscalizacao">
+            
+            Fiscalização
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/fiscalizacao/planos-de-fiscalizacao">
+            
+            Planos de Fiscalização
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/fiscalizacao/notificacao-eletronica-de-atos-processuais">
+            
+            Notificação Eletrônica de Atos Processuais
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/fiscalizacao/acompanhamento-de-investimentos-em-terminais">
+            
+            Acompanhamento de Investimentos em Terminais
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/fiscalizacao/normativos">
+            
+            Normativos
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://bit.ly/PainelFiscalizacao_ANTAQ">
+            
+            Painel da Fiscalização
+        </a>
+</li>
+<li>
+<a class="state-published" href="http://bit.ly/2ObrfdG">
+            
+            Painel de Gestão de Multas
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/fiscalizacao/fiscalizacao-com-drones">
+            
+            Fiscalização com Drones
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/fiscalizacao/termo-de-compromisso-de-ajustamento-de-conduta-tac">
+            
+            Termo de Compromisso de Ajustamento de Conduta (TAC)
+        </a>
+</li>
+</ul>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/leiloes">
+            
+            Leilões
+        </a>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/assuntos/meio-ambiente">
+            
+            Sustentabilidade
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/meio-ambiente/competencias-da-antaq-1">
+            
+            Competências da ANTAQ
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/meio-ambiente/indice-de-desempenho-ambiental-ida-1">
+            
+            Índice de Desempenho Ambiental (IDA)
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/meio-ambiente/agendas-ambientais-1">
+            
+            Agendas Ambientais
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/meio-ambiente/cargas-perigosas-1">
+            
+            Cargas Perigosas
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/atuacao-internacional/convencoes-internacionais">
+            
+            Convenções Internacionais
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/meio-ambiente/planejamento-ambiental-portuario-1">
+            
+            Planejamento Ambiental Portuário
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/meio-ambiente/politicas-planos-e-programas-1">
+            
+            Políticas, Planos e Programas
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/meio-ambiente/principios-ambientais-portuarios">
+            
+            Princípios Ambientais Portuários
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/meio-ambiente/global-integrated-shipping-information-system-gisis">
+            
+            Global Integrated Shipping Information System (GISIS)
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/assuntos/gestao-estrategica">
+            
+            Gestão Estratégica
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/gestao-estrategica/modelo-de-gestao-estrategica">
+            
+            Modelo de Gestão Estratégica
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/gestao-estrategica/comite-estrategico-de-governanca">
+            
+            Comitê Estratégico de Governança
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/prestacao_de_contas/relatorio-de-gestao">
+            
+            Relatório de Gestão
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/acoes-e-programas/planejamento-estrategico-1">
+            
+            Plano Estratégico
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/gestao-estrategica/mapa-estrategico">
+            
+            Mapa Estratégico
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/acoes-e-programas/plano-de-gestao-anual">
+            
+            Plano de Gestão Anual (PGA)
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/gestao-estrategica/cadeia-de-valor">
+            
+            Cadeia de Valor
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/gestao-estrategica/gestao-de-riscos-e-integridade">
+            
+            Gestão de Riscos e Integridade Pública
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/gestao-estrategica/gestao-por-processos-de-negocio-bpm">
+            
+            Gestão por Processos de Negócio (BPM)
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/acoes-e-programas/programa-de-gestao-por-resultados">
+            
+            Programa de Gestão e Desempenho (Teletrabalho)
+        </a>
+</li>
+</ul>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/atuacao-internacional">
+            
+            Atuação Internacional
+        </a>
+</li>
+</ul>
+</li><li class="selected dropdown-submenu"><a class="plain" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao">Acesso à Informação</a>
+<ul class="submenu">
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional">
+            
+            Institucional
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional/organograma-1">
+            
+            Organograma
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional/copy_of_competencias">
+            
+            Competências
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional/base-juridica-1">
+            
+            Base Jurídica
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional/quem-e-quem">
+            
+            Quem é Quem
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional/perfil-profissional">
+            
+            Perfil Profissional
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/canais_atendimento/atendimento-presencial">
+            
+            Unidades da ANTAQ
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional/principais-normativos">
+            
+            Atos Normativos
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional/agenda-de-autoridades">
+            
+            Agenda de Autoridades
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional/diretoria-colegiada">
+            
+            Diretoria Colegiada
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional/reunioes-deliberativas">
+            
+            Reuniões da Diretoria
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/acoes-e-programas">
+            
+            Ações e Programas
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/acoes-e-programas/programas-projetos-acoes-obras-e-atividades">
+            
+            Programas, Projetos, Ações, Obras e Atividades
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/acoes-e-programas/carta-de-servicos">
+            
+            Carta de Serviços
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/acoes-e-programas/renuncia-de-receitas">
+            
+            Concessões de Recursos Financeiros ou Renúncias de Receitas
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/acoes-e-programas/governanca">
+            
+            Governança
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/acoes-e-programas/governanca-regulatoria">
+            
+            Governança Regulatória
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/acoes-e-programas/programa-de-gestao-e-desempenho-teletrabalho">
+            
+            Programa de Gestão e Desempenho (Teletrabalho)
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social">
+            
+            Participação Social
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/canais_atendimento/ouvidoria">
+            
+            Ouvidoria
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social/audiencias-e-consultas-publicas">
+            
+            Audiências e Consultas Públicas
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados">
+            
+            Conselhos e Órgãos Colegiados
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social/conferencias">
+            
+            Conferências
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social/chamamentos-publicos">
+            
+            Editais de Chamamento Público
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social/outras-acoes">
+            
+            Outras Ações
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/auditorias">
+            
+            Auditorias
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/prestacao_de_contas">
+            
+            Prestação de Contas
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/prestacao_de_contas/transparencia_antaq">
+            
+            Rol de Responsáveis
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/auditorias/relatorios-da-cgu">
+            
+            Relatórios da CGU
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/auditorias/plano-anual-de-atividades-de-auditoria-interna-paint">
+            
+            Plano Anual de Atividades de Auditoria Interna (PAINT)
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/auditorias/relatorio-anual-de-atividades-de-auditoria-interna-raint">
+            
+            Relatório Anual de Atividades de Auditoria Interna (RAINT)
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/auditorias/acoes-de-supervisao-controle-e-correicao">
+            
+            Ações de Supervisão, Controle e Correição
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/auditorias/auditorias-1">
+            
+            Auditoria Interna
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/convenios-e-transferencias-1">
+            
+            Convênios e Transferências
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/convenios-e-transferencias-1/repasses-e-transferencias">
+            
+            Repasses e Transferências de Recursos Financeiros
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/convenios-e-transferencias-1/acordo-termo-de-cooperacao-tecnica-act-tct">
+            
+            Acordo/Termo de Cooperação Técnica (ACT/TCT)
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/convenios-e-transferencias-1/termo-de-execucao-descentralizada-ted">
+            
+            Termo de Execução Descentralizada (TED)
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/convenios-e-transferencias-1/termo-de-cessao-de-uso">
+            
+            Termo de Cessão de Uso
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/receitas-e-despesas">
+            
+            Receitas e Despesas
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/receitas-e-despesas/receita-publica">
+            
+            Receita Pública
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/receitas-e-despesas/quadro-de-detalhamento-de-programas-por-unidade-orcamentaria">
+            
+            Quadro de Detalhamento de Programas, por Unidade Orçamentária
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/receitas-e-despesas/quadro-de-execucao-de-despesas-por-unidade-orcamentaria">
+            
+            Quadro de Execução de Despesas, por Unidade Orçamentária
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/receitas-e-despesas/despesas-com-diarias-e-passagens">
+            
+            Despesas com Diárias e Passagens
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/receitas-e-despesas/notas-fiscais-eletronicas">
+            
+            Notas Fiscais Eletrônicas
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/receitas-e-despesas/gastos-com-cartao-corporativo">
+            
+            Gastos com Cartão Corporativo
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/paineis/painel-de-gestao-orcamentaria-e-financeira">
+            
+            Painel de Gestão Orçamentária e Financeira
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/licitacoes-e-contratos">
+            
+            Licitações e Contratos
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/licitacoes-e-contratos/processos-licitatorios">
+            
+            Licitações
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/licitacoes-e-contratos/contratos">
+            
+            Contratos
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/licitacoes-e-contratos/plano-anual-de-contratacoes">
+            
+            Plano de Contratações Anual
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://app.powerbi.com/view?r=eyJrIjoiOTZkNjhiNjQtODI1MS00MTUxLTk0MWItZGJlZTA0NmYxMzk3IiwidCI6IjhlNTdmNzI3LTBlNWUtNDEzMC04ZTI0LTJkNWY3YzhjMzhmNiJ9&amp;pageName=ReportSectione29eaa9c136480e5d0e9">
+            
+            Painel de Licitações e Contratos
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/licitacoes-e-contratos/governanca-e-gestao-em-licitacoes-e-contratos">
+            
+            Governança e Gestão em Licitações e Contratos
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/servidores-ou-empregados-publicos">
+            
+            Servidores (ou Empregados Públicos)
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/servidores-ou-empregados-publicos/servidores-1">
+            
+            Servidores (ou Empregados)
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/servidores-ou-empregados-publicos/aposentados-e-pensionistas">
+            
+            Aposentados e Pensionistas
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/servidores-ou-empregados-publicos/concursos-publicos">
+            
+            Concursos Públicos
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/servidores-ou-empregados-publicos/relacao-completa-de-empregados-terceirizados">
+            
+            Relação Completa de Empregados Terceirizados
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/servidores-ou-empregados-publicos/despesas-com-capacitacao">
+            
+            Despesas com Capacitação
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/informacoes-classificadas">
+            
+            Informações Classificadas
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/informacoes-classificadas/informacoes-classificadas-1">
+            
+            Rol das Informações Classificadas em Cada Grau de Sigilo
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/informacoes-classificadas/rol-das-informacoes-desclassificadas-nos-ultimos-doze-meses">
+            
+            Rol das Informações Desclassificadas nos Últimos Doze Meses
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/informacoes-classificadas/formularios-para-pedido-de-desclassificacao">
+            
+            Formulários para Pedido de Desclassificação
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/servico-de-informacao-ao-cidadao-sic">
+            
+            Serviço de Informação ao Cidadão - SIC
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/servico-de-informacao-ao-cidadao-sic/servicos-de-informacoes-ao-cidadao-sic">
+            
+            Informações sobre Serviço de Informação ao Cidadão - SIC
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/servico-de-informacao-ao-cidadao-sic/modelo-de-formulario-de-solicitacao-de-informacao-e-recurso">
+            
+            Modelo de Formulário de Solicitação de Informação e Recurso
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://falabr.cgu.gov.br/publico/Manifestacao/SelecionarTipoManifestacao.aspx?ReturnUrl=%2f">
+            
+            Link para a Plataforma Integrada de Ouvidoria e Acesso à Informação (Fala.BR)
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/servico-de-informacao-ao-cidadao-sic/relatorio-anual-da-autoridade-de-monitoramento">
+            
+            Relatório Anual da Autoridade de Monitoramento
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/perguntas-frequentes">
+            
+            Perguntas Frequentes
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/prestacao_de_contas/transparencia_antaq">
+            
+            Perguntas Frequentes
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/dados-abertos">
+            
+            Dados Abertos
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/dados-abertos/plano-de-dados-abertos">
+            
+            Planos de Dados Abertos (PDA) Vigente e Anteriores
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/dados-abertos/disponibilizacao-das-bases-de-dados-programadas-para-abertura-no-pda">
+            
+            Disponibilização das Bases de Dados Programadas para Abertura no PDA
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/dados-abertos/relatorio-anual-de-execucao-do-pda">
+            
+            Relatório Anual de Execução do PDA
+        </a>
+</li>
+</ul>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/sancoes-administrativas">
+            
+            Sanções Administrativas
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/ferramentas-e-aspectos-tecnologicos">
+            
+            Ferramentas e Aspectos Tecnológicos
+        </a>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/tratamento-de-dados-pessoais-1">
+            
+            Tratamento de Dados Pessoais
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/tratamento-de-dados-pessoais-1/aviso-de-privacidade">
+            
+            Aviso de Privacidade
+        </a>
+</li>
+</ul>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/comissao-de-etica-da-antaq-cea">
+            
+            Comissão de Ética da ANTAQ
+        </a>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/corregedoria-da-antaq">
+            
+            Corregedoria
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/corregedoria-da-antaq/corregedoria">
+            
+            Corregedoria da ANTAQ
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/prestacao_de_contas">
+            
+            Transparência e Prestação de Contas
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/prestacao_de_contas/transparencia_antaq">
+            
+            Informações Gerais
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/prestacao_de_contas/relatorio-de-gestao">
+            
+            Relatório de Gestão
+        </a>
+</li>
+</ul>
+</li>
+</ul>
+</li><li class="plain dropdown-submenu"><a class="plain" href="https://www.gov.br/antaq/pt-br/composicao">Composição</a>
+<ul class="submenu">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/composicao/diretoria">
+            
+            Diretoria
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/composicao/suporte-a-decisao">
+            
+            Unidades de Suporte à Decisão
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/composicao/superintendencias">
+            
+            Superintendências
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/composicao/unidades-regionais">
+            
+            Gerências Regionais
+        </a>
+</li>
+</ul>
+</li><li class="plain dropdown-submenu"><a class="plain" href="https://www.gov.br/antaq/pt-br/central-de-conteudos">Central de Conteúdos</a>
+<ul class="submenu">
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/paineis">
+            
+            Painéis
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="http://anuario.antaq.gov.br/">
+            
+            Painel do Estatístico Aquaviário
+        </a>
+</li>
+<li>
+<a class="state-published" href="http://web.antaq.gov.br/ResultadosIda/">
+            
+            Painel do IDA
+        </a>
+</li>
+<li>
+<a class="state-published" href="http://bit.ly/painel_instalacoes_privadas_v2">
+            
+            Painel de Instalações Privadas
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://app.powerbi.com/view?r=eyJrIjoiNTEyMDBhMjMtYTEwYy00YjIzLTg2YzEtNzlmYWUyOTU1MWMxIiwidCI6IjhlNTdmNzI3LTBlNWUtNDEzMC04ZTI0LTJkNWY3YzhjMzhmNiJ9">
+            
+            Painel de Portos Públicos
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://bit.ly/PainelSituacaoPortos_2">
+            
+            Painel da Situação dos Portos em Tempo Real
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://aquarela.antaq.gov.br/single/?appid=ae38ee96-f616-4fae-a3fa-886f56615134&amp;sheet=c09ddb94-6dc5-4c08-b1c2-e6d096802ec0&amp;theme=horizon&amp;opt=ctxmenu">
+            
+            Painel de Administração Portuária
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://aquarela.antaq.gov.br/single/?appid=c40d1203-f0cf-4461-b9b6-7ca4207eb171&amp;sheet=280469da-a9f1-40bb-80a7-7e2e9922d252&amp;opt=currsel,ctxmenu">
+            
+            Painel de Outorgas de Navegação
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://aquarela.antaq.gov.br/single/?appid=62518b21-6421-4eab-9c35-bcfac6d57ffd&amp;sheet=70ada7af-9026-4f15-a862-8a40becb7e7d&amp;theme=horizon&amp;opt=currsel%2Cctxmenu">
+            
+            Painel da Fiscalização
+        </a>
+</li>
+<li>
+<a class="state-published" href="http://bit.ly/2ObrfdG">
+            
+            Painel de Gestão de Multas
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://aquarela.antaq.gov.br/single/?appid=cb1143af-cf81-4dbf-a3c1-183da11a4e95&amp;sheet=eae3b1f0-75e7-440f-b290-f219699a9d9c&amp;theme=breeze&amp;opt=currsel%2Cctxmenu">
+            
+            Painel de Gestão Regulatória
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://aquarela.antaq.gov.br/single/?appid=2e217b4f-505e-474c-8a48-c65d8e432543&amp;sheet=d79401ff-40e1-4c74-8a0a-c72568e87207&amp;theme=horizon&amp;opt=currsel%2Cctxmenu">
+            
+            Painel Análise de Impacto Regulatório
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://aquarela.antaq.gov.br/single/?appid=6e8a8562-990e-439a-b14d-a4c120c3d419&amp;sheet=178d5f5b-edd0-4ba2-aca1-241ddf05832e&amp;select=clearall">
+            
+            Painel do PGA (Gestão Anual)
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://bit.ly/3ru8ocj">
+            
+            Painel de Gestão de Pessoas
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://app.powerbi.com/view?r=eyJrIjoiN2E5MDdlOWItMzc3ZC00NjM0LTlkZmYtMDJhNjg5YjMxMjI1IiwidCI6IjhlNTdmNzI3LTBlNWUtNDEzMC04ZTI0LTJkNWY3YzhjMzhmNiJ9&amp;pageName=ReportSection">
+            
+            Painel de Gestão Orçamentária e Financeira
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://app.powerbi.com/view?r=eyJrIjoiYzNmNzc5MTMtOGY3Mi00NGJlLTgzNTItYzQ0YWU5ZTRlYTNiIiwidCI6IjhlNTdmNzI3LTBlNWUtNDEzMC04ZTI0LTJkNWY3YzhjMzhmNiJ9">
+            
+            Painel do Centro de Custo
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://app.powerbi.com/view?r=eyJrIjoiOTZkNjhiNjQtODI1MS00MTUxLTk0MWItZGJlZTA0NmYxMzk3IiwidCI6IjhlNTdmNzI3LTBlNWUtNDEzMC04ZTI0LTJkNWY3YzhjMzhmNiJ9&amp;pageName=ReportSectione29eaa9c136480e5d0e9">
+            
+            Painel de Licitações e Contratos
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://app.powerbi.com/view?r=eyJrIjoiNjNiZDA4NTItYTI4Ny00NjFkLTk5MmMtMzU0Mzc2ODM3YjIyIiwidCI6IjhlNTdmNzI3LTBlNWUtNDEzMC04ZTI0LTJkNWY3YzhjMzhmNiJ9&amp;pageName=ReportSection90d77907e9ad0800c1ad">
+            
+            Painel de Gerenciamento de Recursos Logísticos Sustentáveis
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://aquarela.antaq.gov.br/single/?appid=d17eb19b-c94c-452f-bc08-8aad73a4e225&amp;sheet=6a3a5b26-d47b-4c7e-b21f-f2bdd6346a4e&amp;theme=horizon&amp;opt=currsel">
+            
+            Painel do PGD (Teletrabalho)
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://web3.antaq.gov.br/ea/peg/">
+            
+            Painel dos Resultados da Pesquisa Equidade de Gênero
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://aquarela.antaq.gov.br/single/?appid=7df5bc71-220b-4df6-8963-415e2dea4f67&amp;sheet=7e81eaea-0561-4755-839c-5e2ee07e4a9a&amp;theme=horizon&amp;opt=currsel%2Cctxmenu">
+            
+            Painel da Pesquisa de Satisfação dos Usuários
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://centralpaineis.cgu.gov.br/visualizar/resolveu">
+            
+            Ouvidoria
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/estudos-e-pesquisas-da-antaq-1">
+            
+            Estudos e Pesquisas da ANTAQ
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/estudos-e-pesquisas-da-antaq-1/apresentacao">
+            
+            Apresentação
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/estudos-e-pesquisas-da-antaq-1/boletim-aquaviario">
+            
+            Boletim Aquaviário
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/estudos-e-pesquisas-da-antaq-1/estudo-em-destaque">
+            
+            Estudos em Destaque
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/estudos-e-pesquisas-da-antaq-1/agenda-plurianual-de-estudos-da-antaq-2021-2024">
+            
+            Agenda de Estudos 2021-2024
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/publicacoes-da-antaq">
+            
+            Publicações da ANTAQ
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/publicacoes-da-antaq/biblioteca-1">
+            
+            Publicações da ANTAQ
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/publicacoes-da-antaq/relatorios-em-destaque">
+            
+            Relatórios em Destaque
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/publicacoes-da-antaq/jurisprudencia-antaq">
+            
+            Jurisprudência ANTAQ
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/premio-antaq">
+            
+            Prêmio ANTAQ
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/premio-antaq/premio-antaq-2023">
+            
+            Prêmio ANTAQ 2023
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/premio-antaq/premio-antaq-2022">
+            
+            Prêmio ANTAQ 2022
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/premio-antaq/premio-antaq-2021">
+            
+            Prêmio ANTAQ 2021
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/premio-antaq/premio-antaq-2019">
+            
+            Prêmio ANTAQ 2019
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/premio-antaq/premio-antaq-2017">
+            
+            Prêmio ANTAQ 2017
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/premio-antaq/premio-antaq-2016">
+            
+            Prêmio ANTAQ 2016
+        </a>
+</li>
+</ul>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/informacoes-geograficas">
+            
+            Informações Geográficas
+        </a>
+</li>
+</ul>
+</li><li class="plain dropdown-submenu"><a class="plain" href="https://www.gov.br/antaq/pt-br/canais_atendimento">Canais de Atendimento</a>
+<ul class="submenu">
+<li>
+<a class="state-published" href="https://falabr.cgu.gov.br/publico/Manifestacao/SelecionarTipoManifestacao.aspx?ReturnUrl=%2f">
+            
+            Fale Conosco
+        </a>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/canais_atendimento/ouvidoria">
+            
+            Ouvidoria
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/canais_atendimento/ouvidoria/ouvidoria-1">
+            
+            Sobre a Ouvidoria
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/canais_atendimento/ouvidoria/canais_de_atendimento">
+            
+            Canais de Atendimento
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/canais_atendimento/ouvidoria/legislacao_correlata">
+            
+            Legislação Correlata
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/canais_atendimento/ouvidoria/conselho_de_usuarios">
+            
+            Conselho de Usuários
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/canais_atendimento/ouvidoria/relatorios_anuais">
+            
+            Relatórios Anuais
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/canais_atendimento/ouvidoria/balanco-ouvidoria">
+            
+            Relatórios Gerenciais
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/canais_atendimento/ouvidoria/painel-resolveu">
+            
+            Painel Resolveu?
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/canais_atendimento/ouvidoria/manuais">
+            
+            Manuais
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/canais_atendimento/ascom">
+            
+            Imprensa e Cerimonial
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/canais_atendimento/ascom/imprensa">
+            
+            Imprensa
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/canais_atendimento/ascom/eventos-e-cerimonial">
+            
+            Eventos e Cerimonial
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/canais_atendimento/ascom/Manual-Identidade-Visual">
+            
+            Manual de Identidade Visual
+        </a>
+</li>
+</ul>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/canais_atendimento/atendimento-presencial">
+            
+            Presencial
+        </a>
+</li>
+</ul>
+</li><li class="plain dropdown-submenu"><a class="plain" href="https://www.gov.br/antaq/pt-br/servicos-1">Serviços</a>
+<ul class="submenu">
+<li>
+<a class="state-published" href="https://www.gov.br/pt-br/categorias?id=transito-e-transportes">
+            
+            Central de Serviços do Governo Federal
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/acoes-e-programas/carta-de-servicos">
+            
+            Carta de Serviços - ANTAQ
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/servicos-1/sistema-eletronico-de-informacoes-sei">
+            
+            Sistema Eletrônico de Informações (SEI)
+        </a>
+</li>
+</ul>
+</li><li class="plain dropdown-submenu"><a class="plain" href="https://www.gov.br/antaq/pt-br/noticias">Notícias</a>
+<ul class="submenu">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/noticias/2024">
+            
+            2024
+        </a>
+</li>
+</ul>
+</li><li class="plain dropdown-submenu menu-govbr-root" id="portaltab-govbr-root">
+<a class="plain" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social/audiencias-e-consultas-publicas/proximas-audiencias-publicas-1/proximas-audiencias-publicas">
+<span>GOV.BR</span>
+</a>
+<!-- Menu nivel1 -->
+<ul class="submenu navTree">
+<li class="dropdown-submenu">
+<a class="hasDropDown" href="https://www.gov.br/pt-br/servicos">Serviços</a>
+<ul class="submenu navTree">
+<li class="dropdown-submenu">
+<a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por">Buscar serviços por</a>
+<ul class="submenu navTree">
+<li class="plain">
+<a href="https://www.gov.br/pt-br/categorias">Categorias</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/servicos/listar_orgaos">Órgãos</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/servicos-estaduais">Estados</a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo">Serviços por público alvo</a>
+<ul class="submenu navTree">
+<li class="plain">
+<a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos">Cidadãos</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas">Empresas</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos">Órgãos e Entidades Públicas</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros">Demais segmentos (ONGs, organizações sociais, etc)</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor">Servidor Público</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="hasDropDown" href="https://www.gov.br/pt-br/temas-em-destaque">Temas em Destaque</a>
+<ul class="submenu navTree">
+<li class="plain">
+<a href="https://www.gov.br/pt-br/temas/transparencia-fiscal-orcamento-nacional">Orçamento Nacional</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/temas/redes-civis-de-unidades-de-atendimento-do-governo-federal">Redes de Atendimento do Governo Federal</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/temas/protecao-de-dados-pessoais">Proteção de Dados Pessoais</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/temas/servicos-para-imigrantes">Serviços para Imigrantes</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/temas/politica-e-orcamento-educacional">Política e Orçamento Educacionais</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/temas/bolsas-de-estudos-e-financiamentos-estudantis">Bolsas de Estudo e Financiamentos Estudantis</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/temas/educacao-profissional-e-tecnologica-1">Educação Profissional e Tecnológica</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/temas/habilidades-online-para-jovens-e-adultos">Educação Profissional para Jovens e Adultos</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/temas/trabalho-emprego">Trabalho e Emprego</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/temas/acesso-a-educacao-para-pessoas-com-deficiencia">Serviços para Pessoas com Deficiência</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/temas/politica-e-legislacao-contra-a-discriminacao-racial">Combate à Discriminação Racial</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/temas/politica-e-orcamento-de-protecao-social">Política de Proteção Social</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/temas/politica-para-mulheres">Política para Mulheres</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/temas/saude-reprodutiva-da-mulher">Saúde Reprodutiva da Mulher</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/temas/desenvolvimento-cuidados-e-educacao-pre-escolar">Cuidados na Primeira Infância</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/temas/habitacao-popular">Habitação Popular</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/temas/controle-da-poluicao-e-outras-medidas-de-precaucao">Controle de Poluição e Resíduos Sólidos</a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="hasDropDown" href="https://www.gov.br/pt-br/noticias">Notícias</a>
+<ul class="submenu navTree">
+<li class="plain">
+<a href="https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao">Serviços para o cidadão</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria">Saúde</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria">Agricultura e Pecuária</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/noticias/assistencia-social">Cidadania e Assistência Social</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/noticias/ciencia-e-tecnologia">Ciência e Tecnologia</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/noticias/comunicacao">Comunicação</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes">Cultura e Esporte</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica">Economia e Gestão Pública</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa">Educação e Pesquisa</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis">Energia</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/noticias/forcas-armadas">Forças Armadas e Defesa Civil</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/noticias/transito-e-transportes">Infraestrutura</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca">Justiça e Segurança</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima">Meio Ambiente</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia">Trabalho e Previdência</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/noticias/viagens-e-turismo">Turismo</a>
+</li>
+</ul>
+</li>
+<li class="plain">
+<a class="hasDropDown" href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+</li>
+<li class="plain">
+<a class="hasDropDown" href="/planalto">Acompanhe o Planalto</a>
+</li>
+<li class="dropdown-submenu">
+<a class="hasDropDown" href="https://www.gov.br/pt-br/navegacao">Navegação</a>
+<ul class="submenu navTree">
+<li class="plain">
+<a href="https://www.gov.br/governodigital/pt-br/acessibilidade-digital">Acessibilidade</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/sitemap">Mapa do Site</a>
+</li>
+<li class="plain">
+<a href="/pt-br/termos-de-uso">Termo de Uso e Aviso de Privacidade</a>
+</li>
+</ul>
+</li>
+<li class="plain">
+<a class="hasDropDown" href="http://solicitacao.servicos.gov.br/">Acesse sua conta gov.br</a>
+</li>
+<li class="plain">
+<a class="hasDropDown" href="https://www.gov.br/pt-br/orgaos-do-governo">Órgãos do Governo</a>
+</li>
+<li class="dropdown-submenu">
+<a class="hasDropDown" href="https://www.gov.br/pt-br/por-dentro-do-govbr">Por dentro do Gov.br</a>
+<ul class="submenu navTree">
+<li class="plain">
+<a href="https://www.gov.br/pt-br/por-dentro-do-govbr/perguntas-frequentes">Dúvidas Frequentes em relação ao Portal gov.br</a>
+</li>
+<li class="plain">
+<a href="http://faq-login-unico.servicos.gov.br/en/latest/">Dúvidas Frequentes da conta gov.br</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/por-dentro-do-govbr/ajuda-para-navegar-o-portal">Ajuda para Navegar o Portal</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/por-dentro-do-govbr/conheca-os-elementos-do-portal">Conheça os elementos do Portal</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/participamaisbrasil/sobre">Política de e-participação</a>
+</li>
+<li class="plain">
+<a href="/pt-br/termos-de-uso">Termos de Uso</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/governodigital/pt-br">Governo Digital</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor">Guia de Edição de Serviços do Portal Gov.br</a>
+</li>
+</ul>
+</li>
+<li class="plain">
+<a class="hasDropDown" href="https://www.gov.br/pt-br/canais-do-executivo-federal">Canais do Executivo Federal</a>
+</li>
+<li class="dropdown-submenu">
+<a class="hasDropDown" href="https://www.gov.br/pt-br/dados-do-governo-federal">Dados do Governo Federal</a>
+<ul class="submenu navTree">
+<li class="plain">
+<a href="/governodigital/pt-br/dados-abertos">Dados Abertos</a>
+</li>
+<li class="plain">
+<a href="https://www.gov.br/gestao/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal">Painel Estatístico de Pessoal</a>
+</li>
+<li class="plain">
+<a href="http://paineldecompras.economia.gov.br">Painel de Compras do Governo Federal</a>
+</li>
+<li class="plain">
+<a href="/acessoainformacao/pt-br">Acesso à Informação</a>
+</li>
+</ul>
+</li>
+<li class="plain">
+<a class="hasDropDown" href="https://www.gov.br/empresas-e-negocios/pt-br">Empresas e Negócios</a>
+</li>
+<li class="plain">
+<a class="hasDropDown" href="https://www.gov.br/fazenda/pt-br/canais_atendimento/ouvidoria/simplifique/simplifique">Simplifique!</a>
+</li>
+</ul>
+</li></ul>
+</div>
+</div>
+<div class="navigation-content-extra">
+<div class="links-redes-wrap">
+<div class="links-uteis">
+<div class="titulo">Links Úteis</div>
+<ul>
+<!-- <li>
+                  <a href="#">Órgãos do Governo</a>
+                </li> -->
+<li>
+<a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+</li>
+<li>
+<a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+</li>
+</ul>
+</div>
+<div class="header-accessibility">
+<ul>
+<!--li>
+                  <a
+                    href="https://www.gov.br/pt-br/orgaos-do-governo"
+                    class="orgaos-de-governo"
+                    i18n:translate="orgaos_do_governo"
+                    >Órgãos do Governo</a
+                  >
+                </li-->
+<li>
+<a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+</li>
+<!--li>
+                  <a href="http://www4.planalto.gov.br/legislacao" i18n:translate="legislacao"
+                    >Legislação</a
+                  >
+                </li>
+                <li>
+                  <a href="https://www.gov.br/acessoainformacao/pt-br" i18n:translate="acesso_a_informacao"
+                    >Acesso à Informação</a
+                  >
+                </li-->
+<li>
+<a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+</li>
+</ul>
+</div>
+<div class="redes-sociais">
+<div class="titulo">Redes sociais</div>
+<ul class="portal-redes">
+<li class="portalredes-twitter portalredes-item">
+<a href="https://www.twitter.com/twitter">Twitter</a>
+</li>
+<li class="portalredes-youtube portalredes-item">
+<a href="https://www.youtube.com/youtube">YouTube</a>
+</li>
+<li class="portalredes-facebook portalredes-item">
+<a href="https://www.facebook.com/facebook">Facebook</a>
+</li>
+<li class="portalredes-instagram portalredes-item">
+<a href="https://www.instagram.com/instagram">Instagram</a>
+</li>
+</ul></div>
+</div>
+</div>
+</nav>
+<!-- Main Menu -->
+</header><div id="portal-breadcrumbs-wrapper">
+<nav aria-label="Histórico de navegação (Breadcrumbs)" id="breadcrumbs">
+<div class="content">
+<span class="sr-only">Você está aqui:</span>
+<span class="home">
+<a href="https://www.gov.br/antaq/pt-br">
+<span aria-hidden="true" class="fas fa-home"></span>
+<span class="sr-only">Página Inicial</span>
+</a>
+</span>
+<span dir="ltr" id="breadcrumbs-1">
+<a href="https://www.gov.br/antaq/pt-br/acesso-a-informacao">Acesso à Informação</a>
+</span>
+<span dir="ltr" id="breadcrumbs-2">
+<a href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social">Participação Social</a>
+</span>
+<span dir="ltr" id="breadcrumbs-3">
+<a href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social/audiencias-e-consultas-publicas">Audiências e Consultas Públicas</a>
+</span>
+<span dir="ltr" id="breadcrumbs-4">
+<span id="breadcrumbs-current">Próximas Audiências Públicas</span>
+</span>
+</div>
+</nav>
+</div><!-- <div class="video"></div> --><div id="wrapper">
+<!-- Columns -->
+<div id="main">
+<main id="main-content">
+<div id="viewlet-above-content">
+<script type="application/ld+json">{"@context": "http://schema.org", "itemListElement": [{"position": 1, "@type": "ListItem", "item": "https://www.gov.br/antaq/pt-br/acesso-a-informacao", "name": "Acesso \u00e0 Informa\u00e7\u00e3o"}, {"position": 2, "@type": "ListItem", "item": "https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social", "name": "Participa\u00e7\u00e3o Social"}, {"position": 3, "@type": "ListItem", "item": "https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social/audiencias-e-consultas-publicas", "name": "Audi\u00eancias e Consultas P\u00fablicas"}, {"position": 4, "@type": "ListItem", "item": "https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social/audiencias-e-consultas-publicas/proximas-audiencias-publicas-1", "name": "Pr\u00f3ximas Audi\u00eancias P\u00fablicas"}], "@type": "BreadcrumbList"}</script>
+</div>
+<div class="">
+<dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+<dt>Info</dt>
+<dd></dd>
+</dl>
+<div id="content">
+<div id="viewlet-above-content-title"></div>
+<h1 class="documentFirstHeading">Próximas Audiências Públicas</h1>
+<div id="viewlet-below-content-title"></div>
+<div id="viewlet-above-content-body">
+<div class="social-links">
+<label>Compartilhe: </label>
+<a class="" href="http://www.facebook.com/sharer.php?u=https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social/audiencias-e-consultas-publicas/proximas-audiencias-publicas-1/proximas-audiencias-publicas" title="Facebook">
+<span aria-hidden="true" class="fab fa-facebook-f"></span>
+<span class="sr-only">Compartilhe por Facebook</span>
+</a>
+<a class="" href="https://twitter.com/share?text=Pr%C3%B3ximas%20Audi%C3%AAncias%20P%C3%BAblicas&amp;url=https://www.gov.br/antaq/resolveuid/a7a090bef0a24396ad38d2661b1c5e66" title="Twitter">
+<span aria-hidden="true" class="fab fa-x-twitter"></span>
+<span class="sr-only">Compartilhe por Twitter</span>
+</a>
+<a class="" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social/audiencias-e-consultas-publicas/proximas-audiencias-publicas-1/proximas-audiencias-publicas&amp;title=Pr%C3%B3ximas%20Audi%C3%AAncias%20P%C3%BAblicas" title="LinkedIn">
+<span aria-hidden="true" class="fab fa-linkedin-in"></span>
+<span class="sr-only">Compartilhe por LinkedIn</span>
+</a>
+<a class="link-whatsapp" href="https://api.whatsapp.com/send?text=https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social/audiencias-e-consultas-publicas/proximas-audiencias-publicas-1/proximas-audiencias-publicas" title="WhatsApp">
+<span aria-hidden="true" class="fab fa-whatsapp"></span>
+<span class="sr-only">Compartilhe por WhatsApp</span>
+</a>
+<a class="link-clipboard" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social/audiencias-e-consultas-publicas/proximas-audiencias-publicas-1/proximas-audiencias-publicas" onclick="event.preventDefault()" title="Copiar para área de transferência">
+<span aria-hidden="true" class="fas fa-link"></span>
+<span class="sr-only">link para Copiar para área de transferência</span>
+</a>
+<!--a class="toggle-social-links">
+                <span class="fas fa-share-alt"></span>
+                <span class="fas fa-times"></span>
+            </a-->
+</div>
+<script>
+            new ClipboardJS('.link-clipboard', {
+                text: function(trigger) {
+                    return trigger.getAttribute('href');
+                }
+            });
+        </script>
+<div class="documentByLine" id="plone-document-byline">
+<span class="documentPublished">
+<span>Publicado em</span>
+<!-- TODO: Criar no arquivo de tradução uma máscara para a data aparecer no seguinte formato:
+             PT_BR: 15/10/2019 às 14:01
+             EN   : 10/15/2019 at 14:01
+        -->
+<span class="value">27/07/2023 16h20</span>
+</span>
+<!-- TODO: Fazer esta comparação de uma forma melhor -->
+<span class="documentModified">
+<span>Atualizado em</span>
+<span class="value">05/10/2023 19h59</span>
+</span>
+</div>
+</div>
+<div id="content-core">
+</div>
+<div id="viewlet-below-content-body">
+<div class="visualClear"><!-- --></div>
+<div class="documentActions">
+</div>
+</div>
+</div>
+</div>
+<div id="viewlet-below-content">
+<div class="social-links">
+<label>Compartilhe: </label>
+<a class="" href="http://www.facebook.com/sharer.php?u=https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social/audiencias-e-consultas-publicas/proximas-audiencias-publicas-1/proximas-audiencias-publicas" title="Facebook">
+<span aria-hidden="true" class="fab fa-facebook-f"></span>
+<span class="sr-only">Compartilhe por Facebook</span>
+</a>
+<a class="" href="https://twitter.com/share?text=Pr%C3%B3ximas%20Audi%C3%AAncias%20P%C3%BAblicas&amp;url=https://www.gov.br/antaq/resolveuid/a7a090bef0a24396ad38d2661b1c5e66" title="Twitter">
+<span aria-hidden="true" class="fab fa-x-twitter"></span>
+<span class="sr-only">Compartilhe por Twitter</span>
+</a>
+<a class="" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social/audiencias-e-consultas-publicas/proximas-audiencias-publicas-1/proximas-audiencias-publicas&amp;title=Pr%C3%B3ximas%20Audi%C3%AAncias%20P%C3%BAblicas" title="LinkedIn">
+<span aria-hidden="true" class="fab fa-linkedin-in"></span>
+<span class="sr-only">Compartilhe por LinkedIn</span>
+</a>
+<a class="link-whatsapp" href="https://api.whatsapp.com/send?text=https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social/audiencias-e-consultas-publicas/proximas-audiencias-publicas-1/proximas-audiencias-publicas" title="WhatsApp">
+<span aria-hidden="true" class="fab fa-whatsapp"></span>
+<span class="sr-only">Compartilhe por WhatsApp</span>
+</a>
+<a class="link-clipboard" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social/audiencias-e-consultas-publicas/proximas-audiencias-publicas-1/proximas-audiencias-publicas" onclick="event.preventDefault()" title="Copiar para área de transferência">
+<span aria-hidden="true" class="fas fa-link"></span>
+<span class="sr-only">link para Copiar para área de transferência</span>
+</a>
+<!--a class="toggle-social-links">
+                <span class="fas fa-share-alt"></span>
+                <span class="fas fa-times"></span>
+            </a-->
+</div>
+<script>
+            new ClipboardJS('.link-clipboard', {
+                text: function(trigger) {
+                    return trigger.getAttribute('href');
+                }
+            });
+        </script>
+<div class="govbr-recom-config" data-recom-history-title="Serviços que você acessou">
+</div>
+</div>
+</main>
+</div>
+<div class="conteudo-relacionado"></div>
+<div class="govbr-history-render"></div>
+<footer class="portal-footer" id="portal-footer">
+<div class="footer-wrapper">
+<div class="govbr-logo"></div>
+<!--<div class="colunas-rodape">
+              <div class="coluna-menu">-->
+<ul class="list-navigation"><li class="plain dropdown-submenu"><a class="plain" href="https://www.gov.br/antaq/pt-br/assuntos">Assuntos</a>
+<ul class="submenu">
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/assuntos/passageiros">
+            
+            Passageiros
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/passageiros/direitos">
+            
+            Direitos Básicos
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/passageiros/atrasos-e-cancelamentos">
+            
+            Atrasos e Cancelamentos
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/passageiros/bagagens">
+            
+            Bagagens
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/passageiros/beneficios-e-gratuidades">
+            
+            Benefícios e Gratuidades
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/passageiros/transito-de-criancas-e-adolescentes">
+            
+            Trânsito de Crianças e Adolescentes
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://web3.antaq.gov.br/ea/sense/index.html#pt">
+            
+            Linhas e Horários
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://web3.antaq.gov.br/Portal/Frota/ConsultarEmpresaInteriorAutorizada.aspx">
+            
+            Empresas Autorizadas
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/passageiros/videos-e-cartilhas">
+            
+            Vídeos e Cartilhas
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/passageiros/duvidas-e-reclamacoes">
+            
+            Dúvidas e Reclamações
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/assuntos/instalacoes-portuarias">
+            
+            Instalações Portuárias
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/instalacoes-portuarias/portos">
+            
+            Portos
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/instalacoes-portuarias/instalacoes-privadas">
+            
+            Instalações Privadas
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/instalacoes-portuarias/contabilidade">
+            
+            Contabilidade Regulatória
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/instalacoes-portuarias/legislacao">
+            
+            Legislação
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/assuntos/navegacao">
+            
+            Navegação
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/navegacao/interior">
+            
+            Interior
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/navegacao/maritima-de-de-apoio">
+            
+            Marítima e de Apoio
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/navegacao/afretamento">
+            
+            Afretamento
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/assuntos/fiscalizacao">
+            
+            Fiscalização
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/fiscalizacao/planos-de-fiscalizacao">
+            
+            Planos de Fiscalização
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/fiscalizacao/notificacao-eletronica-de-atos-processuais">
+            
+            Notificação Eletrônica de Atos Processuais
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/fiscalizacao/acompanhamento-de-investimentos-em-terminais">
+            
+            Acompanhamento de Investimentos em Terminais
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/fiscalizacao/normativos">
+            
+            Normativos
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://bit.ly/PainelFiscalizacao_ANTAQ">
+            
+            Painel da Fiscalização
+        </a>
+</li>
+<li>
+<a class="state-published" href="http://bit.ly/2ObrfdG">
+            
+            Painel de Gestão de Multas
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/fiscalizacao/fiscalizacao-com-drones">
+            
+            Fiscalização com Drones
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/fiscalizacao/termo-de-compromisso-de-ajustamento-de-conduta-tac">
+            
+            Termo de Compromisso de Ajustamento de Conduta (TAC)
+        </a>
+</li>
+</ul>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/leiloes">
+            
+            Leilões
+        </a>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/assuntos/meio-ambiente">
+            
+            Sustentabilidade
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/meio-ambiente/competencias-da-antaq-1">
+            
+            Competências da ANTAQ
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/meio-ambiente/indice-de-desempenho-ambiental-ida-1">
+            
+            Índice de Desempenho Ambiental (IDA)
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/meio-ambiente/agendas-ambientais-1">
+            
+            Agendas Ambientais
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/meio-ambiente/cargas-perigosas-1">
+            
+            Cargas Perigosas
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/atuacao-internacional/convencoes-internacionais">
+            
+            Convenções Internacionais
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/meio-ambiente/planejamento-ambiental-portuario-1">
+            
+            Planejamento Ambiental Portuário
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/meio-ambiente/politicas-planos-e-programas-1">
+            
+            Políticas, Planos e Programas
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/meio-ambiente/principios-ambientais-portuarios">
+            
+            Princípios Ambientais Portuários
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/meio-ambiente/global-integrated-shipping-information-system-gisis">
+            
+            Global Integrated Shipping Information System (GISIS)
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/assuntos/gestao-estrategica">
+            
+            Gestão Estratégica
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/gestao-estrategica/modelo-de-gestao-estrategica">
+            
+            Modelo de Gestão Estratégica
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/gestao-estrategica/comite-estrategico-de-governanca">
+            
+            Comitê Estratégico de Governança
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/prestacao_de_contas/relatorio-de-gestao">
+            
+            Relatório de Gestão
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/acoes-e-programas/planejamento-estrategico-1">
+            
+            Plano Estratégico
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/gestao-estrategica/mapa-estrategico">
+            
+            Mapa Estratégico
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/acoes-e-programas/plano-de-gestao-anual">
+            
+            Plano de Gestão Anual (PGA)
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/gestao-estrategica/cadeia-de-valor">
+            
+            Cadeia de Valor
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/gestao-estrategica/gestao-de-riscos-e-integridade">
+            
+            Gestão de Riscos e Integridade Pública
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/gestao-estrategica/gestao-por-processos-de-negocio-bpm">
+            
+            Gestão por Processos de Negócio (BPM)
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/acoes-e-programas/programa-de-gestao-por-resultados">
+            
+            Programa de Gestão e Desempenho (Teletrabalho)
+        </a>
+</li>
+</ul>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/assuntos/atuacao-internacional">
+            
+            Atuação Internacional
+        </a>
+</li>
+</ul>
+</li><li class="selected dropdown-submenu"><a class="plain" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao">Acesso à Informação</a>
+<ul class="submenu">
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional">
+            
+            Institucional
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional/organograma-1">
+            
+            Organograma
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional/copy_of_competencias">
+            
+            Competências
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional/base-juridica-1">
+            
+            Base Jurídica
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional/quem-e-quem">
+            
+            Quem é Quem
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional/perfil-profissional">
+            
+            Perfil Profissional
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/canais_atendimento/atendimento-presencial">
+            
+            Unidades da ANTAQ
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional/principais-normativos">
+            
+            Atos Normativos
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional/agenda-de-autoridades">
+            
+            Agenda de Autoridades
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional/diretoria-colegiada">
+            
+            Diretoria Colegiada
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional/reunioes-deliberativas">
+            
+            Reuniões da Diretoria
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/acoes-e-programas">
+            
+            Ações e Programas
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/acoes-e-programas/programas-projetos-acoes-obras-e-atividades">
+            
+            Programas, Projetos, Ações, Obras e Atividades
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/acoes-e-programas/carta-de-servicos">
+            
+            Carta de Serviços
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/acoes-e-programas/renuncia-de-receitas">
+            
+            Concessões de Recursos Financeiros ou Renúncias de Receitas
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/acoes-e-programas/governanca">
+            
+            Governança
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/acoes-e-programas/governanca-regulatoria">
+            
+            Governança Regulatória
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/acoes-e-programas/programa-de-gestao-e-desempenho-teletrabalho">
+            
+            Programa de Gestão e Desempenho (Teletrabalho)
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social">
+            
+            Participação Social
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/canais_atendimento/ouvidoria">
+            
+            Ouvidoria
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social/audiencias-e-consultas-publicas">
+            
+            Audiências e Consultas Públicas
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados">
+            
+            Conselhos e Órgãos Colegiados
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social/conferencias">
+            
+            Conferências
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social/chamamentos-publicos">
+            
+            Editais de Chamamento Público
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social/outras-acoes">
+            
+            Outras Ações
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/auditorias">
+            
+            Auditorias
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/prestacao_de_contas">
+            
+            Prestação de Contas
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/prestacao_de_contas/transparencia_antaq">
+            
+            Rol de Responsáveis
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/auditorias/relatorios-da-cgu">
+            
+            Relatórios da CGU
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/auditorias/plano-anual-de-atividades-de-auditoria-interna-paint">
+            
+            Plano Anual de Atividades de Auditoria Interna (PAINT)
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/auditorias/relatorio-anual-de-atividades-de-auditoria-interna-raint">
+            
+            Relatório Anual de Atividades de Auditoria Interna (RAINT)
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/auditorias/acoes-de-supervisao-controle-e-correicao">
+            
+            Ações de Supervisão, Controle e Correição
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/auditorias/auditorias-1">
+            
+            Auditoria Interna
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/convenios-e-transferencias-1">
+            
+            Convênios e Transferências
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/convenios-e-transferencias-1/repasses-e-transferencias">
+            
+            Repasses e Transferências de Recursos Financeiros
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/convenios-e-transferencias-1/acordo-termo-de-cooperacao-tecnica-act-tct">
+            
+            Acordo/Termo de Cooperação Técnica (ACT/TCT)
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/convenios-e-transferencias-1/termo-de-execucao-descentralizada-ted">
+            
+            Termo de Execução Descentralizada (TED)
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/convenios-e-transferencias-1/termo-de-cessao-de-uso">
+            
+            Termo de Cessão de Uso
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/receitas-e-despesas">
+            
+            Receitas e Despesas
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/receitas-e-despesas/receita-publica">
+            
+            Receita Pública
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/receitas-e-despesas/quadro-de-detalhamento-de-programas-por-unidade-orcamentaria">
+            
+            Quadro de Detalhamento de Programas, por Unidade Orçamentária
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/receitas-e-despesas/quadro-de-execucao-de-despesas-por-unidade-orcamentaria">
+            
+            Quadro de Execução de Despesas, por Unidade Orçamentária
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/receitas-e-despesas/despesas-com-diarias-e-passagens">
+            
+            Despesas com Diárias e Passagens
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/receitas-e-despesas/notas-fiscais-eletronicas">
+            
+            Notas Fiscais Eletrônicas
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/receitas-e-despesas/gastos-com-cartao-corporativo">
+            
+            Gastos com Cartão Corporativo
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/paineis/painel-de-gestao-orcamentaria-e-financeira">
+            
+            Painel de Gestão Orçamentária e Financeira
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/licitacoes-e-contratos">
+            
+            Licitações e Contratos
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/licitacoes-e-contratos/processos-licitatorios">
+            
+            Licitações
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/licitacoes-e-contratos/contratos">
+            
+            Contratos
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/licitacoes-e-contratos/plano-anual-de-contratacoes">
+            
+            Plano de Contratações Anual
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://app.powerbi.com/view?r=eyJrIjoiOTZkNjhiNjQtODI1MS00MTUxLTk0MWItZGJlZTA0NmYxMzk3IiwidCI6IjhlNTdmNzI3LTBlNWUtNDEzMC04ZTI0LTJkNWY3YzhjMzhmNiJ9&amp;pageName=ReportSectione29eaa9c136480e5d0e9">
+            
+            Painel de Licitações e Contratos
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/licitacoes-e-contratos/governanca-e-gestao-em-licitacoes-e-contratos">
+            
+            Governança e Gestão em Licitações e Contratos
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/servidores-ou-empregados-publicos">
+            
+            Servidores (ou Empregados Públicos)
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/servidores-ou-empregados-publicos/servidores-1">
+            
+            Servidores (ou Empregados)
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/servidores-ou-empregados-publicos/aposentados-e-pensionistas">
+            
+            Aposentados e Pensionistas
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/servidores-ou-empregados-publicos/concursos-publicos">
+            
+            Concursos Públicos
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/servidores-ou-empregados-publicos/relacao-completa-de-empregados-terceirizados">
+            
+            Relação Completa de Empregados Terceirizados
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/servidores-ou-empregados-publicos/despesas-com-capacitacao">
+            
+            Despesas com Capacitação
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/informacoes-classificadas">
+            
+            Informações Classificadas
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/informacoes-classificadas/informacoes-classificadas-1">
+            
+            Rol das Informações Classificadas em Cada Grau de Sigilo
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/informacoes-classificadas/rol-das-informacoes-desclassificadas-nos-ultimos-doze-meses">
+            
+            Rol das Informações Desclassificadas nos Últimos Doze Meses
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/informacoes-classificadas/formularios-para-pedido-de-desclassificacao">
+            
+            Formulários para Pedido de Desclassificação
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/servico-de-informacao-ao-cidadao-sic">
+            
+            Serviço de Informação ao Cidadão - SIC
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/servico-de-informacao-ao-cidadao-sic/servicos-de-informacoes-ao-cidadao-sic">
+            
+            Informações sobre Serviço de Informação ao Cidadão - SIC
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/servico-de-informacao-ao-cidadao-sic/modelo-de-formulario-de-solicitacao-de-informacao-e-recurso">
+            
+            Modelo de Formulário de Solicitação de Informação e Recurso
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://falabr.cgu.gov.br/publico/Manifestacao/SelecionarTipoManifestacao.aspx?ReturnUrl=%2f">
+            
+            Link para a Plataforma Integrada de Ouvidoria e Acesso à Informação (Fala.BR)
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/servico-de-informacao-ao-cidadao-sic/relatorio-anual-da-autoridade-de-monitoramento">
+            
+            Relatório Anual da Autoridade de Monitoramento
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/perguntas-frequentes">
+            
+            Perguntas Frequentes
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/prestacao_de_contas/transparencia_antaq">
+            
+            Perguntas Frequentes
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/dados-abertos">
+            
+            Dados Abertos
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/dados-abertos/plano-de-dados-abertos">
+            
+            Planos de Dados Abertos (PDA) Vigente e Anteriores
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/dados-abertos/disponibilizacao-das-bases-de-dados-programadas-para-abertura-no-pda">
+            
+            Disponibilização das Bases de Dados Programadas para Abertura no PDA
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/dados-abertos/relatorio-anual-de-execucao-do-pda">
+            
+            Relatório Anual de Execução do PDA
+        </a>
+</li>
+</ul>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/sancoes-administrativas">
+            
+            Sanções Administrativas
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/ferramentas-e-aspectos-tecnologicos">
+            
+            Ferramentas e Aspectos Tecnológicos
+        </a>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/tratamento-de-dados-pessoais-1">
+            
+            Tratamento de Dados Pessoais
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/tratamento-de-dados-pessoais-1/aviso-de-privacidade">
+            
+            Aviso de Privacidade
+        </a>
+</li>
+</ul>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/comissao-de-etica-da-antaq-cea">
+            
+            Comissão de Ética da ANTAQ
+        </a>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/corregedoria-da-antaq">
+            
+            Corregedoria
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/corregedoria-da-antaq/corregedoria">
+            
+            Corregedoria da ANTAQ
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/prestacao_de_contas">
+            
+            Transparência e Prestação de Contas
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/prestacao_de_contas/transparencia_antaq">
+            
+            Informações Gerais
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/prestacao_de_contas/relatorio-de-gestao">
+            
+            Relatório de Gestão
+        </a>
+</li>
+</ul>
+</li>
+</ul>
+</li><li class="plain dropdown-submenu"><a class="plain" href="https://www.gov.br/antaq/pt-br/composicao">Composição</a>
+<ul class="submenu">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/composicao/diretoria">
+            
+            Diretoria
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/composicao/suporte-a-decisao">
+            
+            Unidades de Suporte à Decisão
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/composicao/superintendencias">
+            
+            Superintendências
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/composicao/unidades-regionais">
+            
+            Gerências Regionais
+        </a>
+</li>
+</ul>
+</li><li class="plain dropdown-submenu"><a class="plain" href="https://www.gov.br/antaq/pt-br/central-de-conteudos">Central de Conteúdos</a>
+<ul class="submenu">
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/paineis">
+            
+            Painéis
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="http://anuario.antaq.gov.br/">
+            
+            Painel do Estatístico Aquaviário
+        </a>
+</li>
+<li>
+<a class="state-published" href="http://web.antaq.gov.br/ResultadosIda/">
+            
+            Painel do IDA
+        </a>
+</li>
+<li>
+<a class="state-published" href="http://bit.ly/painel_instalacoes_privadas_v2">
+            
+            Painel de Instalações Privadas
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://app.powerbi.com/view?r=eyJrIjoiNTEyMDBhMjMtYTEwYy00YjIzLTg2YzEtNzlmYWUyOTU1MWMxIiwidCI6IjhlNTdmNzI3LTBlNWUtNDEzMC04ZTI0LTJkNWY3YzhjMzhmNiJ9">
+            
+            Painel de Portos Públicos
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://bit.ly/PainelSituacaoPortos_2">
+            
+            Painel da Situação dos Portos em Tempo Real
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://aquarela.antaq.gov.br/single/?appid=ae38ee96-f616-4fae-a3fa-886f56615134&amp;sheet=c09ddb94-6dc5-4c08-b1c2-e6d096802ec0&amp;theme=horizon&amp;opt=ctxmenu">
+            
+            Painel de Administração Portuária
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://aquarela.antaq.gov.br/single/?appid=c40d1203-f0cf-4461-b9b6-7ca4207eb171&amp;sheet=280469da-a9f1-40bb-80a7-7e2e9922d252&amp;opt=currsel,ctxmenu">
+            
+            Painel de Outorgas de Navegação
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://aquarela.antaq.gov.br/single/?appid=62518b21-6421-4eab-9c35-bcfac6d57ffd&amp;sheet=70ada7af-9026-4f15-a862-8a40becb7e7d&amp;theme=horizon&amp;opt=currsel%2Cctxmenu">
+            
+            Painel da Fiscalização
+        </a>
+</li>
+<li>
+<a class="state-published" href="http://bit.ly/2ObrfdG">
+            
+            Painel de Gestão de Multas
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://aquarela.antaq.gov.br/single/?appid=cb1143af-cf81-4dbf-a3c1-183da11a4e95&amp;sheet=eae3b1f0-75e7-440f-b290-f219699a9d9c&amp;theme=breeze&amp;opt=currsel%2Cctxmenu">
+            
+            Painel de Gestão Regulatória
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://aquarela.antaq.gov.br/single/?appid=2e217b4f-505e-474c-8a48-c65d8e432543&amp;sheet=d79401ff-40e1-4c74-8a0a-c72568e87207&amp;theme=horizon&amp;opt=currsel%2Cctxmenu">
+            
+            Painel Análise de Impacto Regulatório
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://aquarela.antaq.gov.br/single/?appid=6e8a8562-990e-439a-b14d-a4c120c3d419&amp;sheet=178d5f5b-edd0-4ba2-aca1-241ddf05832e&amp;select=clearall">
+            
+            Painel do PGA (Gestão Anual)
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://bit.ly/3ru8ocj">
+            
+            Painel de Gestão de Pessoas
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://app.powerbi.com/view?r=eyJrIjoiN2E5MDdlOWItMzc3ZC00NjM0LTlkZmYtMDJhNjg5YjMxMjI1IiwidCI6IjhlNTdmNzI3LTBlNWUtNDEzMC04ZTI0LTJkNWY3YzhjMzhmNiJ9&amp;pageName=ReportSection">
+            
+            Painel de Gestão Orçamentária e Financeira
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://app.powerbi.com/view?r=eyJrIjoiYzNmNzc5MTMtOGY3Mi00NGJlLTgzNTItYzQ0YWU5ZTRlYTNiIiwidCI6IjhlNTdmNzI3LTBlNWUtNDEzMC04ZTI0LTJkNWY3YzhjMzhmNiJ9">
+            
+            Painel do Centro de Custo
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://app.powerbi.com/view?r=eyJrIjoiOTZkNjhiNjQtODI1MS00MTUxLTk0MWItZGJlZTA0NmYxMzk3IiwidCI6IjhlNTdmNzI3LTBlNWUtNDEzMC04ZTI0LTJkNWY3YzhjMzhmNiJ9&amp;pageName=ReportSectione29eaa9c136480e5d0e9">
+            
+            Painel de Licitações e Contratos
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://app.powerbi.com/view?r=eyJrIjoiNjNiZDA4NTItYTI4Ny00NjFkLTk5MmMtMzU0Mzc2ODM3YjIyIiwidCI6IjhlNTdmNzI3LTBlNWUtNDEzMC04ZTI0LTJkNWY3YzhjMzhmNiJ9&amp;pageName=ReportSection90d77907e9ad0800c1ad">
+            
+            Painel de Gerenciamento de Recursos Logísticos Sustentáveis
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://aquarela.antaq.gov.br/single/?appid=d17eb19b-c94c-452f-bc08-8aad73a4e225&amp;sheet=6a3a5b26-d47b-4c7e-b21f-f2bdd6346a4e&amp;theme=horizon&amp;opt=currsel">
+            
+            Painel do PGD (Teletrabalho)
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://web3.antaq.gov.br/ea/peg/">
+            
+            Painel dos Resultados da Pesquisa Equidade de Gênero
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://aquarela.antaq.gov.br/single/?appid=7df5bc71-220b-4df6-8963-415e2dea4f67&amp;sheet=7e81eaea-0561-4755-839c-5e2ee07e4a9a&amp;theme=horizon&amp;opt=currsel%2Cctxmenu">
+            
+            Painel da Pesquisa de Satisfação dos Usuários
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://centralpaineis.cgu.gov.br/visualizar/resolveu">
+            
+            Ouvidoria
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/estudos-e-pesquisas-da-antaq-1">
+            
+            Estudos e Pesquisas da ANTAQ
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/estudos-e-pesquisas-da-antaq-1/apresentacao">
+            
+            Apresentação
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/estudos-e-pesquisas-da-antaq-1/boletim-aquaviario">
+            
+            Boletim Aquaviário
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/estudos-e-pesquisas-da-antaq-1/estudo-em-destaque">
+            
+            Estudos em Destaque
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/estudos-e-pesquisas-da-antaq-1/agenda-plurianual-de-estudos-da-antaq-2021-2024">
+            
+            Agenda de Estudos 2021-2024
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/publicacoes-da-antaq">
+            
+            Publicações da ANTAQ
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/publicacoes-da-antaq/biblioteca-1">
+            
+            Publicações da ANTAQ
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/publicacoes-da-antaq/relatorios-em-destaque">
+            
+            Relatórios em Destaque
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/publicacoes-da-antaq/jurisprudencia-antaq">
+            
+            Jurisprudência ANTAQ
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/premio-antaq">
+            
+            Prêmio ANTAQ
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/premio-antaq/premio-antaq-2023">
+            
+            Prêmio ANTAQ 2023
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/premio-antaq/premio-antaq-2022">
+            
+            Prêmio ANTAQ 2022
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/premio-antaq/premio-antaq-2021">
+            
+            Prêmio ANTAQ 2021
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/premio-antaq/premio-antaq-2019">
+            
+            Prêmio ANTAQ 2019
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/premio-antaq/premio-antaq-2017">
+            
+            Prêmio ANTAQ 2017
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/premio-antaq/premio-antaq-2016">
+            
+            Prêmio ANTAQ 2016
+        </a>
+</li>
+</ul>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/central-de-conteudos/informacoes-geograficas">
+            
+            Informações Geográficas
+        </a>
+</li>
+</ul>
+</li><li class="plain dropdown-submenu"><a class="plain" href="https://www.gov.br/antaq/pt-br/canais_atendimento">Canais de Atendimento</a>
+<ul class="submenu">
+<li>
+<a class="state-published" href="https://falabr.cgu.gov.br/publico/Manifestacao/SelecionarTipoManifestacao.aspx?ReturnUrl=%2f">
+            
+            Fale Conosco
+        </a>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/canais_atendimento/ouvidoria">
+            
+            Ouvidoria
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/canais_atendimento/ouvidoria/ouvidoria-1">
+            
+            Sobre a Ouvidoria
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/canais_atendimento/ouvidoria/canais_de_atendimento">
+            
+            Canais de Atendimento
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/canais_atendimento/ouvidoria/legislacao_correlata">
+            
+            Legislação Correlata
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/canais_atendimento/ouvidoria/conselho_de_usuarios">
+            
+            Conselho de Usuários
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/canais_atendimento/ouvidoria/relatorios_anuais">
+            
+            Relatórios Anuais
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/canais_atendimento/ouvidoria/balanco-ouvidoria">
+            
+            Relatórios Gerenciais
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/canais_atendimento/ouvidoria/painel-resolveu">
+            
+            Painel Resolveu?
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/canais_atendimento/ouvidoria/manuais">
+            
+            Manuais
+        </a>
+</li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="state-published hasDropDown" href="https://www.gov.br/antaq/pt-br/canais_atendimento/ascom">
+            
+            Imprensa e Cerimonial
+        </a>
+<ul class="submenu navTree navTreeLevel1">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/canais_atendimento/ascom/imprensa">
+            
+            Imprensa
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/canais_atendimento/ascom/eventos-e-cerimonial">
+            
+            Eventos e Cerimonial
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/canais_atendimento/ascom/Manual-Identidade-Visual">
+            
+            Manual de Identidade Visual
+        </a>
+</li>
+</ul>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/canais_atendimento/atendimento-presencial">
+            
+            Presencial
+        </a>
+</li>
+</ul>
+</li><li class="plain dropdown-submenu"><a class="plain" href="https://www.gov.br/antaq/pt-br/servicos-1">Serviços</a>
+<ul class="submenu">
+<li>
+<a class="state-published" href="https://www.gov.br/pt-br/categorias?id=transito-e-transportes">
+            
+            Central de Serviços do Governo Federal
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/acesso-a-informacao/acoes-e-programas/carta-de-servicos">
+            
+            Carta de Serviços - ANTAQ
+        </a>
+</li>
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/servicos-1/sistema-eletronico-de-informacoes-sei">
+            
+            Sistema Eletrônico de Informações (SEI)
+        </a>
+</li>
+</ul>
+</li><li class="plain dropdown-submenu"><a class="plain" href="https://www.gov.br/antaq/pt-br/noticias">Notícias</a>
+<ul class="submenu">
+<li>
+<a class="state-published" href="https://www.gov.br/antaq/pt-br/noticias/2024">
+            
+            2024
+        </a>
+</li>
+</ul>
+</li></ul>
+<!--</div>
+            </div>-->
+<div class="lgpd-reset-cookies">
+<a class="reset-cookies" href="#" onclick="_redefinirCookies(); return false;">Redefinir Cookies</a>
+</div>
+<div class="redes-e-logos">
+<div class="redes-sociais">
+<div class="titulo">Redes sociais</div>
+<ul class="portal-redes">
+<li class="portalredes-twitter portalredes-item">
+<a href="https://www.twitter.com/twitter">Twitter</a>
+</li>
+<li class="portalredes-youtube portalredes-item">
+<a href="https://www.youtube.com/youtube">YouTube</a>
+</li>
+<li class="portalredes-facebook portalredes-item">
+<a href="https://www.facebook.com/facebook">Facebook</a>
+</li>
+<li class="portalredes-instagram portalredes-item">
+<a href="https://www.instagram.com/instagram">Instagram</a>
+</li>
+</ul></div>
+<div id="footer-govbr">
+<div id="wrapper-footer-brasil">
+<a class="logo-acesso-footer" href="https://www.gov.br/acessoainformacao/pt-br" title="Acesse o portal sobre o acesso à informação">
+<svg height="49" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewbox="0 0 117 49" width="117" xmlns="http://www.w3.org/2000/svg"><defs><style type="text/css"><![CDATA[.a {font: normal bold 11px Open Sans, sans-serif;}]]></style></defs><circle cx="22" cy="23" fill="#222" r="22"></circle><path d="m 22,23 v 13" style="stroke:#fff;stroke-width:9;stroke-linecap:round;"></path><path d="m 4,43 3,-6 4,3 z" style="stroke:#222;stroke-width:4;stroke-linejoin:round;"></path><circle cx="22" cy="11" fill="#fff" r="4.5"></circle><g fill="#222"><text x="47" y="22"><tspan class="a" y="18">Acesso à</tspan><tspan class="a" x="47" y="31">Informação</tspan></text></g></svg>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="texto-copyright">
+    Todo o conteúdo deste site está publicado sob a licença <a href="https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR" rel="license">Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada</a>.
+  </div>
+</footer>
+<nav aria-label="Voltar ao topo da página" class="back-to-top">
+<a href="#wrapper">
+<span class="fa fa-chevron-up"></span>
+<span class="sr-only">Voltar ao topo da página</span>
+</a>
+</nav>
+<div data-autocomplete-api="https://portalunico.estaleiro.serpro.gov.br/api/" data-autocomplete-index="//www.gov.br/antaq" data-autocomplete-orgao="agencia-nacional-de-transportes-aquaviarios" data-autocomplete-portal="https://www.gov.br" data-autocomplete-search="https://www.gov.br/antaq/pt-br" data-historico-title="Histórico de buscas" data-input-placeholder="O que você procura?" data-servicos-title="Serviços e Apps" data-sugestoes-title="Você quis dizer?" id="govbr-busca-input-data" style="display: none"></div></div><div id="main-navigation-overlay"></div><div class="redefinir-cookies">
+</div><div class="dsgov">
+<div class="br-cookiebar default d-none" tabindex="-1">
+<div class="br-modal">
+<div class="br-card">
+<div class="container">
+<div class="wrapper">
+<div class="br-modal-header entry-content">
+<div class="br-modal-title"></div>
+<div class="last-update"></div>
+<div class="entry-text"></div>
+</div>
+<div class="br-modal-body">
+<div class="info-text"></div>
+<div class="br-list main-content">
+</div>
+</div>
+</div>
+<div class="br-modal-footer actions">
+<button aria-label="Definir Cookies" class="br-button small btn-manage" type="button"></button>
+<button aria-label="Rejeitar" class="br-button secondary small reject-all" type="button">Rejeitar</button>
+<button aria-label="Aceitar" class="br-button secondary small btn-accept" type="button"></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><script id="lgpd-cookie-handling" src="https://www.gov.br/antaq/++resource++govbr.policy/lgpd_cookie_handling_1_3_85.js" type="text/javascript"></script><div id="govbr-login-overlay-wrapper"></div><div class="enabled" vw="">
+<div class="active" vw-access-button=""></div>
+<div vw-plugin-wrapper="">
+<div class="vw-plugin-top-wrapper"></div>
+</div>
+</div><script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script><script>
+    new window.VLibras.Widget('https://vlibras.gov.br/app', 'https://vlibras.gov.br/config/default_logo.json');
+    </script><script src="/antaq/++theme++padrao_govbr/govbrtheme-63d584d.js" type="text/javascript"></script><div id="plone-analytics"><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" data-src="https://www.googletagmanager.com/gtag/js?id=UA-80181585-36"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-80181585-36', {
+  'linker': {
+    'domains': ['www.gov.br', 'vlibras.gov.br'],
+    'accept_incoming': true
+  }
+});
+</script>
+</div></body>
+</html>
