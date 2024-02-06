@@ -4,8 +4,10 @@ import pandas as pd
 import plotly.express as px
 from bs4 import BeautifulSoup
 from selenium import webdriver
+from chromedriver_autoinstaller import install as install_chromedriver
 import difflib
 
+install_chromedriver()
 
 st.set_page_config(layout = 'wide')
 #inserindo o titulo
