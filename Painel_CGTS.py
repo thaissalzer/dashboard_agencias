@@ -1,5 +1,5 @@
 import shutil
-
+import os
 import streamlit as st
 import requests
 import pandas as pd
@@ -159,6 +159,9 @@ with aba1:
         print("Não foi possível acessar a página. Código de status:", response.status_code)
     st.dataframe(df_tomada)
 
+def get_logpath():
+    return os.path.join(os.getcwd(), 'selenium.log')
+    
 def get_chromedriver_path():
     return shutil.which('chromedriver')
 
@@ -176,7 +179,8 @@ def get_webdriver_options():
 
 def get_webdriver_service():
     service = Service(
-        executable_path=get_chromedriver_path()
+        executable_path=get_chromedriver_path(),
+        log_output=get_logpath()
     )
     return service
     
