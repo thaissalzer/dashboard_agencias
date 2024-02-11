@@ -190,8 +190,27 @@ with aba2:
     st.title('Informações sobre a ANA')
     st.text("Link: https://participacao-social.ana.gov.br/")
     # Crie uma instância do driver do Selenium (certifique-se de ter o WebDriver apropriado instalado)
-    driver = webdriver.Chrome(options=get_webdriver_options(), service=get_webdriver_service())
+#...
+    with st.echo():
+    from selenium import webdriver
+    from selenium.webdriver.chrome.options import Options
+    from selenium.webdriver.chrome.service import Service
+    from webdriver_manager.chrome import ChromeDriverManager
+
+    @st.experimental_singleton
+    def get_driver():
+        return webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+
+    options = Options()
+    options.add_argument('--disable-gpu')
+    options.add_argument('--headless')
+
+    driver = get_driver()
+
+    st.code(driver.page_source)
     
+    driver = webdriver.Chrome(options=get_webdriver_options(), service=get_webdriver_service())
+    #...
     # URL da página que você deseja consultar
     url = "https://participacao-social.ana.gov.br/"
     
