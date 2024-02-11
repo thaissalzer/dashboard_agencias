@@ -7,6 +7,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
+from webdriver_manager.core.os_manager import ChromeType
 
 import difflib
 
@@ -168,7 +169,7 @@ with aba2:
     options.add_argument('--disable-gpu')
     options.add_argument('--headless')
     driver = webdriver.Chrome(
-        service=Service(ChromeDriverManager(driver_version="114.0.5735.90").install()),
+        service=Service(ChromeDriverManager(driver_version="121.0.6167.85", chrome_type=ChromeType.CHROMIUM).install()),
         options=options
     )
     
