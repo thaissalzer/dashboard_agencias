@@ -4,7 +4,12 @@ import pandas as pd
 import plotly.express as px
 from bs4 import BeautifulSoup
 from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
+
 import difflib
+
 
 
 st.set_page_config(layout = 'wide')
@@ -16,7 +21,6 @@ aba1, aba2, aba3, aba4 = st.tabs(['ANAC', 'ANA', 'ANTAQ', 'ANTT'])
 with aba1:
     st.title('Informações sobre a ANAC')
 
-    
     url = "https://www.gov.br/anac/pt-br/acesso-a-informacao/participacao-social/consultas-publicas/consultas-publicas-em-andamento/consulta-publica"
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html.parser')
@@ -32,7 +36,16 @@ with aba1:
     # Itera sobre todos os elementos <p> com classe 'callout'
     for consulta in consultas:
         consulta_numero = consulta.find('strong').text
-        texto_associado = consulta.find_next('p', class_='Texto_Justificado_Recuo_Primeira_Linha_Esp_Simples').text
+        
+        # Encontrar o próximo elemento <p> com a classe especificada
+        elemento_encontrado = consulta.find_next('p', class_='Texto_Justificado_Recuo_Primeira_Linha_Esp_Simples')
+        
+        # Verificar se o elemento foi encontrado
+        if elemento_encontrado:
+            texto_associado = elemento_encontrado.text
+        else:
+            texto_associado = "Nenhum texto encontrado"
+        
         periodo = "Não especificado"
     
         # Encontre o próximo elemento que contenha "Período:" na sequência
@@ -43,7 +56,7 @@ with aba1:
     
         consulta_numero_list.append(consulta_numero)
         texto_associado_list.append(texto_associado)
-        periodo_list.append(periodo)
+        periodo_list.append(periodo)    
     
     # Crie um DataFrame a partir das listas
     data = {'Consulta Pública': consulta_numero_list, 'Texto Associado': texto_associado_list, 'Período': periodo_list}
@@ -151,7 +164,13 @@ with aba2:
     st.title('Informações sobre a ANA')
     st.text("Link: https://participacao-social.ana.gov.br/")
     # Crie uma instância do driver do Selenium (certifique-se de ter o WebDriver apropriado instalado)
-    driver = webdriver.Chrome()
+    options = Options()
+    options.add_argument('--disable-gpu')
+    options.add_argument('--headless')
+    driver = webdriver.Chrome(
+        service=Service(ChromeDriverManager().install()),
+        options=options
+    )
     
     # URL da página que você deseja consultar
     url = "https://participacao-social.ana.gov.br/"
