@@ -1,3 +1,5 @@
+import shutil
+
 import streamlit as st
 import requests
 import pandas as pd
@@ -6,9 +8,8 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
-from webdriver_manager.chrome import ChromeDriverManager
-from webdriver_manager.core.os_manager import ChromeType
-
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.wait import WebDriverWait
 import difflib
 
 
@@ -158,20 +159,32 @@ with aba1:
         print("Não foi possível acessar a página. Código de status:", response.status_code)
     st.dataframe(df_tomada)
 
+def get_chromedriver_path():
+    return shutil.which('chromedriver')
+
+def get_webdriver_options():
+    options = Options()
+    options.add_argument("--headless")
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
+    options.add_argument("--disable-gpu")
+    options.add_argument("--disable-features=NetworkService")
+    options.add_argument("--window-size=1920x1080")
+    options.add_argument("--disable-features=VizDisplayCompositor")
+    return options
 
 
-
+def get_webdriver_service():
+    service = Service(
+        executable_path=get_chromedriver_path()
+    )
+    return service
+    
 with aba2:
     st.title('Informações sobre a ANA')
     st.text("Link: https://participacao-social.ana.gov.br/")
     # Crie uma instância do driver do Selenium (certifique-se de ter o WebDriver apropriado instalado)
-    options = Options()
-    options.add_argument('--disable-gpu')
-    options.add_argument('--headless')
-    driver = webdriver.Chrome(
-        service=Service(ChromeDriverManager(driver_version="121.0.6167.85", chrome_type=ChromeType.CHROMIUM).install()),
-        options=options
-    )
+    driver = webdriver.Chrome(options=get_webdriver_options(), service=get_webdriver_service())
     
     # URL da página que você deseja consultar
     url = "https://participacao-social.ana.gov.br/"
