@@ -168,7 +168,7 @@ with aba2:
     options.add_argument('--disable-gpu')
     options.add_argument('--headless')
     driver = webdriver.Chrome(
-        service=Service(ChromeDriverManager().install()),
+        service=Service(ChromeDriverManager(driver_version="114.0.5735.90").install()),
         options=options
     )
     
