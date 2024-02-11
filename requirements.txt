@@ -7,3 +7,5 @@ plotly-express==0.4.1
 requests==2.31.0
 streamlit
 selenium
+seleniumbase
+webdriver-manager
