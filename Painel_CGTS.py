@@ -191,7 +191,6 @@ with aba2:
     st.text("Link: https://participacao-social.ana.gov.br/")
     # Crie uma instância do driver do Selenium (certifique-se de ter o WebDriver apropriado instalado)
 #...
-    with st.echo():
     from selenium import webdriver
     from selenium.webdriver.chrome.options import Options
     from selenium.webdriver.chrome.service import Service
