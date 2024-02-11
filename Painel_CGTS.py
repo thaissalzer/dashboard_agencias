@@ -158,13 +158,15 @@ with aba1:
     else:
         print("Não foi possível acessar a página. Código de status:", response.status_code)
     st.dataframe(df_tomada)
-
+    
+@st.cache_resource(show_spinner=False)
 def get_logpath():
     return os.path.join(os.getcwd(), 'selenium.log')
-    
+@st.cache_resource(show_spinner=False)
 def get_chromedriver_path():
     return shutil.which('chromedriver')
 
+@st.cache_resource(show_spinner=False)
 def get_webdriver_options():
     options = Options()
     options.add_argument("--headless=new")
