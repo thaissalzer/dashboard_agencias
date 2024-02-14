@@ -1,9 +1,15 @@
+import shutil
+import os
 import streamlit as st
 import requests
 import pandas as pd
 import plotly.express as px
 from bs4 import BeautifulSoup
 from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.wait import WebDriverWait
 import difflib
 
 
@@ -12,12 +18,11 @@ st.set_page_config(layout = 'wide')
 #inserindo o titulo
 st.title('Monitoramento CGTS: ANAC, ANA, ANTAQ e ANTT')
 
-aba1, aba2, aba3, aba4 = st.tabs(['ANAC','ANTAQ', 'ANTT', 'ANA'])
+aba1, aba2, aba3, aba4 = st.tabs(['ANAC', 'ANA', 'ANTAQ', 'ANTT'])
 
 with aba1:
     st.title('Informações sobre a ANAC')
 
-    
     url = "https://www.gov.br/anac/pt-br/acesso-a-informacao/participacao-social/consultas-publicas/consultas-publicas-em-andamento/consulta-publica"
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html.parser')
@@ -33,7 +38,16 @@ with aba1:
     # Itera sobre todos os elementos <p> com classe 'callout'
     for consulta in consultas:
         consulta_numero = consulta.find('strong').text
-        texto_associado = consulta.find_next('p', class_='Texto_Justificado_Recuo_Primeira_Linha_Esp_Simples').text
+        
+        # Encontrar o próximo elemento <p> com a classe especificada
+        elemento_encontrado = consulta.find_next('p', class_='Texto_Justificado_Recuo_Primeira_Linha_Esp_Simples')
+        
+        # Verificar se o elemento foi encontrado
+        if elemento_encontrado:
+            texto_associado = elemento_encontrado.text
+        else:
+            texto_associado = "Nenhum texto encontrado"
+        
         periodo = "Não especificado"
     
         # Encontre o próximo elemento que contenha "Período:" na sequência
@@ -44,7 +58,7 @@ with aba1:
     
         consulta_numero_list.append(consulta_numero)
         texto_associado_list.append(texto_associado)
-        periodo_list.append(periodo)
+        periodo_list.append(periodo)    
     
     # Crie um DataFrame a partir das listas
     data = {'Consulta Pública': consulta_numero_list, 'Texto Associado': texto_associado_list, 'Período': periodo_list}
@@ -145,100 +159,36 @@ with aba1:
         print("Não foi possível acessar a página. Código de status:", response.status_code)
     st.dataframe(df_tomada)
 
+def get_logpath():
+    return os.path.join(os.getcwd(), 'selenium.log')
+    
+def get_chromedriver_path():
+    return shutil.which('chromedriver')
+
+def get_webdriver_options():
+    options = Options()
+    options.add_argument("--headless=new")
+    options.add_argument('--disable-gpu')
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
+    options.add_argument("--disable-features=NetworkService")
+    options.add_argument("--window-size=1920x1080")
+    options.add_argument("--disable-features=VizDisplayCompositor")
+    return options
+
+
+def get_webdriver_service():
+    service = Service(
+        executable_path=get_chromedriver_path(),
+        log_output=get_logpath()
+    )
+    return service
+    
 with aba2:
-    st.title('Informações sobre a ANTAQ')
-    st.text("Link: https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social/audiencias-e-consultas-publicas/proximas-audiencias-publicas-1")
-    # URL da página que você deseja monitorar
-    url = "https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social/audiencias-e-consultas-publicas/proximas-audiencias-publicas-1"
-    
-    # Inicialize listas vazias para armazenar os resultados
-    adicionados = []
-    removidos = []
-    
-    # Função para verificar a página
-    def check_page():
-        response = requests.get(url)
-        if response.status_code == 200:
-            soup = BeautifulSoup(response.content, 'html.parser')
-            current_content = str(soup)
-    
-            # Ler o estado anterior da página a partir do arquivo
-            try:
-                with open('antaq.txt', 'r') as file:
-                    previous_content = file.read()
-            except FileNotFoundError:
-                previous_content = None
-    
-            if current_content != previous_content:
-                # Calcular e adicionar as diferenças entre o conteúdo atual e o conteúdo anterior às listas
-                d = difflib.Differ()
-                diff = list(d.compare(previous_content.splitlines(), current_content.splitlines()))
-                for line in diff:
-                    if line.startswith('- '):
-                        removidos.append(line[2:])
-                    elif line.startswith('+ '):
-                        adicionados.append(line[2:])
-    
-            # Atualizar o arquivo com o novo conteúdo
-            with open('antaq.txt', 'w') as file:
-                file.write(current_content)
-    
-    # Executar a verificação da página
-    check_page()
-    
-    # Verifique se as listas têm o mesmo comprimento antes de criar o DataFrame
-    if len(adicionados) == len(removidos):
-        # As listas têm o mesmo comprimento, então podemos criar o DataFrame
-        data = {
-            "Adicionados": adicionados,
-            "Removidos": removidos
-        }
-        df_ANTAQ = pd.DataFrame(data)
-    else:
-        # Trate o caso em que as listas têm comprimentos diferentes, por exemplo, exibindo uma mensagem de erro
-        st.error("As listas de adicionados e removidos têm comprimentos diferentes.")
-    
-    # Exiba o DataFrame
-    st.dataframe(df_ANTAQ)
-
-with aba3:
-    st.title('Informações sobre a ANTT')
-    st.text("Link: https://participantt.antt.gov.br/Site/AudienciaPublica/ConsultarAvisoAudienciaPublica.aspx")
-    url = 'https://participantt.antt.gov.br/Site/AudienciaPublica/ConsultarAvisoAudienciaPublica.aspx'
-
-    # Fazer uma solicitação GET para a página
-    response = requests.get(url)
-    
-    if response.status_code == 200:
-        soup = BeautifulSoup(response.text, 'html.parser')
-    
-        # Encontre todas as tags <tr> dentro do <table>
-        tr_tags = soup.find_all('table', {'id': 'Corpo_gvAudiencias'})[0].find_all('tr')
-    
-        data = []
-    
-        for tr in tr_tags[1:]:  # Comece a partir do segundo <tr> para ignorar o cabeçalho da tabela
-            td_tags = tr.find_all('td')
-    
-            tipo_evento = td_tags[0].find('span').text.strip()
-            numero_audiencia = td_tags[1].find('a').text.strip()
-            descricao = td_tags[2].find('span').text.strip()
-            situacao = td_tags[3].text.strip()
-            periodo_validade = td_tags[4].text.strip()
-    
-            data.append([tipo_evento, numero_audiencia, descricao, situacao, periodo_validade])
-    
-        # Crie um DataFrame com os dados
-        df_ANTT = pd.DataFrame(data, columns=["Tipo de Evento", "Número da Audiência", "Descrição", "Situação", "Período de Validade"])
-    
-    st.dataframe(df_ANTT)
-
-
-with aba4:
     st.title('Informações sobre a ANA')
     st.text("Link: https://participacao-social.ana.gov.br/")
     # Crie uma instância do driver do Selenium (certifique-se de ter o WebDriver apropriado instalado)
-    driver = webdriver.Chrome()
+    driver = webdriver.Chrome(options=get_webdriver_options(), service=get_webdriver_service())
     
     # URL da página que você deseja consultar
     url = "https://participacao-social.ana.gov.br/"
@@ -300,3 +250,90 @@ with aba4:
     # Exiba o DataFrame
     st.dataframe(df_ana)
 
+with aba3:
+    st.title('Informações sobre a ANTAQ')
+    st.text("Link: https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social/audiencias-e-consultas-publicas/proximas-audiencias-publicas-1")
+    # URL da página que você deseja monitorar
+    url = "https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social/audiencias-e-consultas-publicas/proximas-audiencias-publicas-1"
+    
+    # Inicialize listas vazias para armazenar os resultados
+    adicionados = []
+    removidos = []
+    
+    # Função para verificar a página
+    def check_page():
+        response = requests.get(url)
+        if response.status_code == 200:
+            soup = BeautifulSoup(response.content, 'html.parser')
+            current_content = str(soup)
+    
+            # Ler o estado anterior da página a partir do arquivo
+            try:
+                with open('antaq.txt', 'r') as file:
+                    previous_content = file.read()
+            except FileNotFoundError:
+                previous_content = None
+    
+            if current_content != previous_content:
+                # Calcular e adicionar as diferenças entre o conteúdo atual e o conteúdo anterior às listas
+                d = difflib.Differ()
+                diff = list(d.compare(previous_content.splitlines(), current_content.splitlines()))
+                for line in diff:
+                    if line.startswith('- '):
+                        removidos.append(line[2:])
+                    elif line.startswith('+ '):
+                        adicionados.append(line[2:])
+    
+            # Atualizar o arquivo com o novo conteúdo
+            with open('antaq.txt', 'w') as file:
+                file.write(current_content)
+    
+    # Executar a verificação da página
+    check_page()
+    
+    # Verifique se as listas têm o mesmo comprimento antes de criar o DataFrame
+    if len(adicionados) == len(removidos):
+        # As listas têm o mesmo comprimento, então podemos criar o DataFrame
+        data = {
+            "Adicionados": adicionados,
+            "Removidos": removidos
+        }
+        df_ANTAQ = pd.DataFrame(data)
+    else:
+        # Trate o caso em que as listas têm comprimentos diferentes, por exemplo, exibindo uma mensagem de erro
+        st.error("As listas de adicionados e removidos têm comprimentos diferentes.")
+    
+    # Exiba o DataFrame
+    st.dataframe(df_ANTAQ)
+
+with aba4:
+    st.title('Informações sobre a ANTT')
+    st.text("Link: https://participantt.antt.gov.br/Site/AudienciaPublica/ConsultarAvisoAudienciaPublica.aspx")
+    url = 'https://participantt.antt.gov.br/Site/AudienciaPublica/ConsultarAvisoAudienciaPublica.aspx'
+
+    # Fazer uma solicitação GET para a página
+    response = requests.get(url)
+    
+    if response.status_code == 200:
+        soup = BeautifulSoup(response.text, 'html.parser')
+    
+        # Encontre todas as tags <tr> dentro do <table>
+        tr_tags = soup.find_all('table', {'id': 'Corpo_gvAudiencias'})[0].find_all('tr')
+    
+        data = []
+    
+        for tr in tr_tags[1:]:  # Comece a partir do segundo <tr> para ignorar o cabeçalho da tabela
+            td_tags = tr.find_all('td')
+    
+            tipo_evento = td_tags[0].find('span').text.strip()
+            numero_audiencia = td_tags[1].find('a').text.strip()
+            descricao = td_tags[2].find('span').text.strip()
+            situacao = td_tags[3].text.strip()
+            periodo_validade = td_tags[4].text.strip()
+    
+            data.append([tipo_evento, numero_audiencia, descricao, situacao, periodo_validade])
+    
+        # Crie um DataFrame com os dados
+        df_ANTT = pd.DataFrame(data, columns=["Tipo de Evento", "Número da Audiência", "Descrição", "Situação", "Período de Validade"])
+    
+    st.dataframe(df_ANTT)
