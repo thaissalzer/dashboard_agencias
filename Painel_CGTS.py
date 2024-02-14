@@ -187,68 +187,6 @@ def get_webdriver_service():
 with aba2:
     st.title('Informações sobre a ANA')
     st.text("Link: https://participacao-social.ana.gov.br/")
-    # Crie uma instância do driver do Selenium (certifique-se de ter o WebDriver apropriado instalado)
-    driver = webdriver.Chrome(options=get_webdriver_options(), service=get_webdriver_service())
-    
-    # URL da página que você deseja consultar
-    url = "https://participacao-social.ana.gov.br/"
-    
-    # Acesse a página usando o driver do Selenium
-    driver.get(url)
-    
-    # Aguarde algum tempo para a página carregar completamente (ajuste conforme necessário)
-    driver.implicitly_wait(10)
-    
-    # Obtenha o código HTML da página carregada pelo Selenium
-    html = driver.page_source
-    
-    # Parse o HTML com BeautifulSoup
-    soup = BeautifulSoup(html, 'html.parser')
-    
-    # Encontre a tabela com o id "tableContent"
-    table = soup.find('table', id='tableContent')
-    
-    # Inicialize listas vazias para armazenar os dados
-    numeros = []
-    meios_de_participacao = []
-    objetos = []
-    periodos_de_contribuicao = []
-    
-    # Encontre todas as linhas da tabela
-    rows = table.find_all('tr')
-    
-    # Itere sobre as linhas da tabela, excluindo o cabeçalho
-    for row in rows[1:]:
-        # Encontre as células da linha (colunas)
-        cells = row.find_all('td')
-    
-        # Extraia as informações de cada célula
-        numero = cells[0].text.strip()
-        meio_de_participacao = cells[1].text.strip()
-        objeto = cells[2].text.strip()
-        periodo_de_contribuicao = cells[3].text.strip()
-    
-        # Adicione os dados às listas
-        numeros.append(numero)
-        meios_de_participacao.append(meio_de_participacao)
-        objetos.append(objeto)
-        periodos_de_contribuicao.append(periodo_de_contribuicao)
-    
-    # Feche o driver do Selenium quando terminar
-    driver.quit()
-    
-    # Crie um DataFrame com os dados
-    data = {
-        "Número": numeros,
-        "Meio de Participação": meios_de_participacao,
-        "Objeto": objetos,
-        "Período de Contribuição": periodos_de_contribuicao
-    }
-    
-    df_ana = pd.DataFrame(data)
-    
-    # Exiba o DataFrame
-    st.dataframe(df_ana)
 
 with aba3:
     st.title('Informações sobre a ANTAQ')
