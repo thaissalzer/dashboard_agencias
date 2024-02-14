@@ -191,58 +191,7 @@ with aba2:
 with aba3:
     st.title('Informações sobre a ANTAQ')
     st.text("Link: https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social/audiencias-e-consultas-publicas/proximas-audiencias-publicas-1")
-    # URL da página que você deseja monitorar
-    url = "https://www.gov.br/antaq/pt-br/acesso-a-informacao/participacao-social/audiencias-e-consultas-publicas/proximas-audiencias-publicas-1"
-    
-    # Inicialize listas vazias para armazenar os resultados
-    adicionados = []
-    removidos = []
-    
-    # Função para verificar a página
-    def check_page():
-        response = requests.get(url)
-        if response.status_code == 200:
-            soup = BeautifulSoup(response.content, 'html.parser')
-            current_content = str(soup)
-    
-            # Ler o estado anterior da página a partir do arquivo
-            try:
-                with open('antaq.txt', 'r') as file:
-                    previous_content = file.read()
-            except FileNotFoundError:
-                previous_content = None
-    
-            if current_content != previous_content:
-                # Calcular e adicionar as diferenças entre o conteúdo atual e o conteúdo anterior às listas
-                d = difflib.Differ()
-                diff = list(d.compare(previous_content.splitlines(), current_content.splitlines()))
-                for line in diff:
-                    if line.startswith('- '):
-                        removidos.append(line[2:])
-                    elif line.startswith('+ '):
-                        adicionados.append(line[2:])
-    
-            # Atualizar o arquivo com o novo conteúdo
-            with open('antaq.txt', 'w') as file:
-                file.write(current_content)
-    
-    # Executar a verificação da página
-    check_page()
-    
-    # Verifique se as listas têm o mesmo comprimento antes de criar o DataFrame
-    if len(adicionados) == len(removidos):
-        # As listas têm o mesmo comprimento, então podemos criar o DataFrame
-        data = {
-            "Adicionados": adicionados,
-            "Removidos": removidos
-        }
-        df_ANTAQ = pd.DataFrame(data)
-    else:
-        # Trate o caso em que as listas têm comprimentos diferentes, por exemplo, exibindo uma mensagem de erro
-        st.error("As listas de adicionados e removidos têm comprimentos diferentes.")
-    
-    # Exiba o DataFrame
-    st.dataframe(df_ANTAQ)
+
 
 with aba4:
     st.title('Informações sobre a ANTT')
