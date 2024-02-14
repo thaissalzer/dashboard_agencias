@@ -14,74 +14,8 @@ st.title('Monitoramento CGRCON: ANVISA, ANS, ANCINE, ANATEL')
 
 aba1, aba2, aba3, aba4 = st.tabs(['ANVISA', 'ANS', 'ANCINE', 'ANATEL'])
 
-with aba1:
-    st.title('Informações sobre a ANVISA')
-    st.text("Link: https://antigo.anvisa.gov.br/consultas-publicas#/")
-    import pandas as pd
-    from selenium import webdriver
-    from selenium.webdriver.common.by import By
-    from selenium.webdriver.support.ui import WebDriverWait
-    from selenium.webdriver.support import expected_conditions as EC
-    from selenium.common.exceptions import NoSuchElementException
-    
-    # Crie uma instância do driver do Selenium (certifique-se de ter o WebDriver apropriado instalado)
-    driver = webdriver.Chrome()
-    
-    # Acesse a URL
-    url = 'https://antigo.anvisa.gov.br/consultas-publicas#/'
-    driver.get(url)
-    
-    # Espere o carregamento dos elementos (ajuste o tempo conforme necessário)
-    wait = WebDriverWait(driver, 10)
-    elementos_li = wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'li.ng-scope')))
-    
-    # Crie listas para as colunas
-    cp_list = []
-    status_list = []
-    assunto_list = []
-    
-    # Itere sobre os elementos <li> encontrados
-    for li in elementos_li:
-        try:
-            # Encontre o elemento <a> dentro de cada <li> com a classe "ng-binding"
-            elemento_a = li.find_element(By.CSS_SELECTOR, 'a.ng-binding')
-    
-            # Encontre o elemento que contém o status (por exemplo, "Aberto")
-            elemento_status = li.find_element(By.CSS_SELECTOR, 'p.ng-binding')
-    
-            # Encontre o elemento que contém o assunto resumido
-            elemento_assunto = elemento_status.find_element(By.XPATH, './following-sibling::p')
-    
-            # Acesse os textos dos elementos
-            texto_a = elemento_a.text.strip()
-            texto_status = elemento_status.text.strip()
-            texto_assunto = elemento_assunto.text.strip()
-    
-            # Adicione os valores às listas
-            cp_list.append(texto_a)
-            status_list.append(texto_status)
-            assunto_list.append(texto_assunto)
-    
-    
-    
-        except NoSuchElementException:
-            pass
-    
-    # Crie o DataFrame
-    df1 = pd.DataFrame({
-        'CP:': cp_list,
-        'Status:': status_list,
-        'Assunto resumido:': assunto_list
-    })
-    
-    # Encerre o driver do Chrome
-    driver.quit()
-    
-    # Imprima o DataFrame
-    st.dataframe(df1)
-    
 
-with aba2:
+with aba1:
     st.title('Informações sobre a ANS')
     
     url = 'https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/consultas-publicas'
@@ -127,7 +61,7 @@ with aba2:
         st.write("Link de Acesso:", consulta["Link de Acesso"])
         st.write("=" * 50)  # Para separar as informações de cada consulta
 
-with aba3:
+with aba2:
     st.title('Informações sobre a ANCINE')
     st.text("Link: https://www.gov.br/participamaisbrasil/consultaspublicas")
     st.text("Última consulta pública atualizada:")
@@ -171,7 +105,7 @@ with aba3:
     else:
         st.write("Erro ao acessar a página:", response.status_code)
 
-with aba4:
+with aba3:
     st.title('Informações sobre a ANATEL')
     
     st.text("Link: https://apps.anatel.gov.br/ParticipaAnatel/Home.aspx")
@@ -281,4 +215,72 @@ with aba4:
     
     # Feche o driver do Selenium
     driver.quit()
+
+with aba4:
+    st.title('Informações sobre a ANVISA')
+    st.text("Link: https://antigo.anvisa.gov.br/consultas-publicas#/")
+    import pandas as pd
+    from selenium import webdriver
+    from selenium.webdriver.common.by import By
+    from selenium.webdriver.support.ui import WebDriverWait
+    from selenium.webdriver.support import expected_conditions as EC
+    from selenium.common.exceptions import NoSuchElementException
+    
+    # Crie uma instância do driver do Selenium (certifique-se de ter o WebDriver apropriado instalado)
+    driver = webdriver.Chrome()
+    
+    # Acesse a URL
+    url = 'https://antigo.anvisa.gov.br/consultas-publicas#/'
+    driver.get(url)
+    
+    # Espere o carregamento dos elementos (ajuste o tempo conforme necessário)
+    wait = WebDriverWait(driver, 10)
+    elementos_li = wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'li.ng-scope')))
+    
+    # Crie listas para as colunas
+    cp_list = []
+    status_list = []
+    assunto_list = []
+    
+    # Itere sobre os elementos <li> encontrados
+    for li in elementos_li:
+        try:
+            # Encontre o elemento <a> dentro de cada <li> com a classe "ng-binding"
+            elemento_a = li.find_element(By.CSS_SELECTOR, 'a.ng-binding')
+    
+            # Encontre o elemento que contém o status (por exemplo, "Aberto")
+            elemento_status = li.find_element(By.CSS_SELECTOR, 'p.ng-binding')
+    
+            # Encontre o elemento que contém o assunto resumido
+            elemento_assunto = elemento_status.find_element(By.XPATH, './following-sibling::p')
+    
+            # Acesse os textos dos elementos
+            texto_a = elemento_a.text.strip()
+            texto_status = elemento_status.text.strip()
+            texto_assunto = elemento_assunto.text.strip()
+    
+            # Adicione os valores às listas
+            cp_list.append(texto_a)
+            status_list.append(texto_status)
+            assunto_list.append(texto_assunto)
+    
+    
+    
+        except NoSuchElementException:
+            pass
+    
+    # Crie o DataFrame
+    df1 = pd.DataFrame({
+        'CP:': cp_list,
+        'Status:': status_list,
+        'Assunto resumido:': assunto_list
+    })
+    
+    # Encerre o driver do Chrome
+    driver.quit()
+    
+    # Imprima o DataFrame
+    st.dataframe(df1)
+    
+
 
